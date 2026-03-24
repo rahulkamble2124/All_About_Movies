@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Cinema DB | Hollywood & Bollywood</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">CINEMA<span>HUB</span></div>
+        <ul class="nav-links">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="search.html">Explore</a></li>
+            <li><a href="actors.html">Actors</a></li>
+            <li><a href="directors.html">Directors</a></li>
+        </ul>
+        <div class="nav-auth">
+            <i class="fas fa-search" onclick="location.href='search.html'"></i>
+            <button class="btn-login">Login</button>
+        </div>
+    </nav>
+
+    <header class="hero" id="hero-section">
+        <div class="hero-content">
+            <span class="trending-badge">#1 Trending Globally</span>
+            <h1 id="hero-title">Loading Featured Movie...</h1>
+            <p id="hero-desc">Fetch the latest cinematic experiences across Hollywood and Bollywood automatically.</p>
+            <div class="hero-buttons">
+                <button class="btn-primary"><i class="fas fa-play"></i> View Details</button>
+                <button class="btn-secondary"><i class="fas fa-plus"></i> Watchlist</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="movie-section">
+            <div class="section-header">
+                <h2>Trending Now</h2>
+                <a href="search.html" class="view-all">View All <i class="fas fa-arrow-right"></i></a>
+            </div>
+            
+            <div class="movie-grid" id="trending-grid">
+                <div class="loader"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 CinemaHub AI. Data automatically gathered from TMDB & Wikipedia.</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
