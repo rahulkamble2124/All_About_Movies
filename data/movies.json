@@ -1,352 +1,44 @@
 [
     {
-        "title": "Episode 58",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3567636/abc-news-afternoons-2026-03-23-episode-58",
+        "title": "Breaking Bad",
+        "summary": "Rating: 9.2 | Scripted",
+        "link": "https://www.tvmaze.com/shows/169/breaking-bad",
         "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253519.jpg"
     },
     {
-        "title": "Episode 4",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3570159/release-that-witch-1x04-episode-4",
+        "title": "Stranger Things",
+        "summary": "Rating: 8.4 | Scripted",
+        "link": "https://www.tvmaze.com/shows/2993/stranger-things",
         "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/595/1489169.jpg"
     },
     {
-        "title": "Episode 137",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3573053/zongmen-li-chule-wo-dou-shi-wodi-1x137-episode-137",
+        "title": "Dark",
+        "summary": "Rating: 8.2 | Scripted",
+        "link": "https://www.tvmaze.com/shows/17861/dark",
         "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262352.jpg"
     },
     {
-        "title": "Episode 27",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3573883/fate-beyond-script-1x27-episode-27",
+        "title": "The Boys",
+        "summary": "Rating: 8.3 | Scripted",
+        "link": "https://www.tvmaze.com/shows/15299/the-boys",
         "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg"
     },
     {
-        "title": "Episode 28",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3573884/fate-beyond-script-1x28-episode-28",
+        "title": "Sacred Games",
+        "summary": "Rating: 7.5 | Scripted",
+        "link": "https://www.tvmaze.com/shows/18197/sacred-games",
         "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/204/511629.jpg"
     },
     {
-        "title": "Episode 1",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577945/zui-wo-mei-ren-xi-1x01-episode-1",
+        "title": "Mirzapur",
+        "summary": "Rating: 7.6 | Scripted",
+        "link": "https://www.tvmaze.com/shows/39868/mirzapur",
         "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 2",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577946/zui-wo-mei-ren-xi-1x02-episode-2",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 3",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577947/zui-wo-mei-ren-xi-1x03-episode-3",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 4",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577948/zui-wo-mei-ren-xi-1x04-episode-4",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 5",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577949/zui-wo-mei-ren-xi-1x05-episode-5",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 6",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577950/zui-wo-mei-ren-xi-1x06-episode-6",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 7",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577951/zui-wo-mei-ren-xi-1x07-episode-7",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 8",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577952/zui-wo-mei-ren-xi-1x08-episode-8",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 9",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577953/zui-wo-mei-ren-xi-1x09-episode-9",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 10",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577954/zui-wo-mei-ren-xi-1x10-episode-10",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 11",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577955/zui-wo-mei-ren-xi-1x11-episode-11",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 12",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577956/zui-wo-mei-ren-xi-1x12-episode-12",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 13",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577957/zui-wo-mei-ren-xi-1x13-episode-13",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 14",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577958/zui-wo-mei-ren-xi-1x14-episode-14",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 15",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577959/zui-wo-mei-ren-xi-1x15-episode-15",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 16",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577960/zui-wo-mei-ren-xi-1x16-episode-16",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 17",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577962/zui-wo-mei-ren-xi-1x17-episode-17",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 18",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577963/zui-wo-mei-ren-xi-1x18-episode-18",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 19",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577964/zui-wo-mei-ren-xi-1x19-episode-19",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 20",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577965/zui-wo-mei-ren-xi-1x20-episode-20",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 21",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577966/zui-wo-mei-ren-xi-1x21-episode-21",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 22",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577967/zui-wo-mei-ren-xi-1x22-episode-22",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 23",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577968/zui-wo-mei-ren-xi-1x23-episode-23",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 24",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577969/zui-wo-mei-ren-xi-1x24-episode-24",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 25",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577971/zui-wo-mei-ren-xi-1x25-episode-25",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 26",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577972/zui-wo-mei-ren-xi-1x26-episode-26",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 27",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577973/zui-wo-mei-ren-xi-1x27-episode-27",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 28",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577974/zui-wo-mei-ren-xi-1x28-episode-28",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 29",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577975/zui-wo-mei-ren-xi-1x29-episode-29",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 30",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577976/zui-wo-mei-ren-xi-1x30-episode-30",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 31",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577977/zui-wo-mei-ren-xi-1x31-episode-31",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 32",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577978/zui-wo-mei-ren-xi-1x32-episode-32",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 33",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577979/zui-wo-mei-ren-xi-1x33-episode-33",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 34",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577981/zui-wo-mei-ren-xi-1x34-episode-34",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 35",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577982/zui-wo-mei-ren-xi-1x35-episode-35",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 36",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577983/zui-wo-mei-ren-xi-1x36-episode-36",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 37",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577985/zui-wo-mei-ren-xi-1x37-episode-37",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 38",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577986/zui-wo-mei-ren-xi-1x38-episode-38",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 39",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577990/zui-wo-mei-ren-xi-1x39-episode-39",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 40",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577992/zui-wo-mei-ren-xi-1x40-episode-40",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 41",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577993/zui-wo-mei-ren-xi-1x41-episode-41",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 42",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577994/zui-wo-mei-ren-xi-1x42-episode-42",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 43",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577995/zui-wo-mei-ren-xi-1x43-episode-43",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 44",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577996/zui-wo-mei-ren-xi-1x44-episode-44",
-        "category": "TV Show",
-        "image": ""
-    },
-    {
-        "title": "Episode 45",
-        "summary": "TV Series - Latest Episode",
-        "link": "https://www.tvmaze.com/episodes/3577997/zui-wo-mei-ren-xi-1x45-episode-45",
-        "category": "TV Show",
-        "image": ""
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/523/1308189.jpg"
     }
 ]
