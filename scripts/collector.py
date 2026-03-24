@@ -5,31 +5,29 @@ import time
 
 def get_data():
     movie_list = []
-    omdb_key = 'YOUR_OMDB_KEY_HERE'  # <--- MUST HAVE YOUR KEY
+    omdb_key = 'YOUR_OMDB_KEY_HERE' # <--- Ensure your key is here!
     
-    # 1. TV SHOWS (Fetching from TVMaze Schedule)
+    # 1. TV SHOWS from TVMaze
     print("Fetching TV Shows...")
-    # Fetching the last 2 days of shows to get a bigger list
-    tv_url = "https://api.tvmaze.com/schedule/full" 
     try:
-        tv_res = requests.get(tv_url)
-        if tv_res.status_code == 200:
-            all_shows = tv_res.json()[:50] # Get 50 shows
-            for s in all_shows:
+        # Fetching specific popular shows to ensure good posters
+        popular_shows = ["Breaking Bad", "Stranger Things", "Dark", "The Boys", "Sacred Games", "Mirzapur"]
+        for show_name in popular_shows:
+            res = requests.get(f"https://api.tvmaze.com/singlesearch/shows?q={show_name}")
+            if res.status_code == 200:
+                s = res.json()
                 movie_list.append({
-                    "title": s.get('name', 'Unknown'),
-                    "summary": "TV Series - Latest Episode",
-                    "link": s.get('url', '#'),
+                    "title": s.get('name'),
+                    "summary": f"Rating: {s.get('rating', {}).get('average', 'N/A')} | {s.get('type')}",
+                    "link": s.get('url'),
                     "category": "TV Show",
                     "image": s.get('image', {}).get('medium', '') if s.get('image') else ""
                 })
-    except:
-        print("TVMaze skipped")
+    except Exception as e:
+        print(f"TVMaze Error: {e}")
 
-    # 2. MOVIES (Fetching by Keywords for Volume)
-    # Each keyword returns about 10 movies
-    keywords = ["Marvel", "Avatar", "Pathaan", "Action", "Horror", "Comedy", "Bollywood", "Hollywood", "2026", "Disney"]
-    
+    # 2. MOVIES from OMDb (Fixed for Poster data)
+    keywords = ["Marvel", "Avengers", "Pathaan", "Batman", "Interstellar", "Joker", "Disney", "Action"]
     print("Fetching Movies from OMDb...")
     for word in keywords:
         search_url = f"http://www.omdbapi.com/?s={word}&type=movie&apikey={omdb_key}"
@@ -38,26 +36,25 @@ def get_data():
             data = res.json()
             if data.get('Response') == 'True':
                 for m in data.get('Search', []):
-                    # To avoid duplicates, check if title already exists
                     if not any(item['title'] == m['Title'] for item in movie_list):
+                        # CRITICAL FIX: Mapping 'Poster' to 'image'
                         movie_list.append({
                             "title": m['Title'],
-                            "summary": f"Released: {m['Year']} | Click for details",
+                            "summary": f"Year: {m['Year']} | Type: Movie",
                             "link": f"https://www.imdb.com/title/{m['imdbID']}/",
                             "category": "Movie",
-                            "image": m['Poster'] if m['Poster'] != "N/A" else ""
+                            "image": m['Poster'] if (m['Poster'] and m['Poster'] != "N/A") else ""
                         })
-            # Respect API speed limits
             time.sleep(0.2) 
-        except:
-            continue
+        except Exception as e:
+            print(f"OMDb Error: {e}")
 
-    # Save everything
+    # Final Save
     os.makedirs('data', exist_ok=True)
     with open('data/movies.json', 'w') as f:
         json.dump(movie_list, f, indent=4)
     
-    print(f"Success! {len(movie_list)} items are now in your database.")
+    print(f"Success! {len(movie_list)} items synced with posters.")
 
 if __name__ == "__main__":
     get_data()
