@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Details</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
+</head>
+<body id="detailBody">
+    <div class="detail-container" id="colorTarget">
+        <img id="poster" crossorigin="anonymous" src="" alt="Poster" style="width:300px; border-radius:15px;">
+        <div class="movie-info">
+            <h1 id="movieTitle"></h1>
+            <p id="moviePlot"></p>
+            <div id="actorProfiles"></div>
+        </div>
+    </div>
 
+    <script>
+        // Logic to extract color from image
+        const img = document.getElementById('poster');
+        const colorThief = new ColorThief();
+
+        img.addEventListener('load', function() {
+            const color = colorThief.getColor(img);
+            document.getElementById('colorTarget').style.background = 
+                `linear-gradient(rgba(${color[0]},${color[1]},${color[2]},0.8), #0f111d)`;
+        });
+
+        async function loadDetails() {
+            const id = new URLSearchParams(window.location.search).get('id');
+            const data = await fetch('data/movies.json').then(r => r.json());
+            const movie = data.find(m => m.imdbID === id);
+            
+            if(movie) {
+                document.getElementById('movieTitle').innerText = movie.Title;
+                document.getElementById('moviePlot').innerText = movie.Plot;
+                img.src = movie.Poster;
+            }
+        }
+        loadDetails();
+    </script>
+</body>
+</html>
