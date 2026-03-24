@@ -1,36 +1,49 @@
-import requests
+import wikipediaapi
 import json
 import os
-import wikipediaapi  # This must be one word
-# CONFIGURATION
-OMDB_KEY = "eb48e89" # Free 1000/day limit. Get your own at omdbapi.com
-WIKI_URL = "https://en.wikipedia.org/api/rest_v1/page/summary/"
 
-def fetch_wiki_bio(name):
-    try:
-        # Wikipedia REST API is 100% free and commercial-friendly
-        res = requests.get(WIKI_URL + name.replace(" ", "_")).json()
-        return {"bio": res.get("extract", "No bio found."), "source": res.get("content_urls", {}).get("desktop", {}).get("page", "")}
-    except:
-        return {"bio": "Biography pending update.", "source": "https://wikipedia.org"}
+def get_movies():
+    wiki = wikipediaapi.Wikipedia(
+        language='en',
+        extract_format=wikipediaapi.ExtractFormat.WIKI,
+        user_agent="CinemaHub/1.0 (rahulkamble2124@example.com)"
+    )
 
-def update_db():
-    # Example starting list - the script will gather data for these
-    movies_to_track = ["Jawan", "Avengers: Endgame", "Pathaan", "Inception"]
-    final_db = []
-
-    for title in movies_to_track:
-        m = requests.get(f"http://www.omdbapi.com/?t={title}&apikey={OMDB_KEY}").json()
-        if m.get("Response") == "True":
-            # Adding Director & Actor Bios
-            m["Director_Info"] = fetch_wiki_bio(m["Director"])
-            m["Actor_Bios"] = [fetch_wiki_bio(name) for name in m["Actors"].split(", ")]
-            final_db.append(m)
+    movie_list = []
     
-    # Save into the data folder
+    # Target Categories
+    categories = [
+        {"name": "Category:2020s_Hindi-language_films", "label": "Bollywood"},
+        {"name": "Category:2020s_English-language_films", "label": "Hollywood"}
+    ]
+
+    for cat_info in categories:
+        cat_page = wiki.page(cat_info["name"])
+        if cat_page.exists():
+            count = 0
+            for page in cat_page.categorymembers.values():
+                if count >= 15: break
+                if page.ns == wikipediaapi.Namespace.MAIN:
+                    movie_list.append({
+                        "title": page.title,
+                        "summary": page.summary[:200] + "...",
+                        "link": page.fullurl,
+                        "category": cat_info["label"]
+                    })
+                    count += 1
+
+    # FALLBACK: If Wikipedia fails, add these manually so the site isn't empty
+    if not movie_list:
+        movie_list = [
+            {"title": "Avatar: The Way of Water", "summary": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.", "link": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water", "category": "Hollywood"},
+            {"title": "Pathaan", "summary": "An exiled RAW agent is assigned to take down a private terrorist organization.", "link": "https://en.wikipedia.org/wiki/Pathaan_(film)", "category": "Bollywood"}
+        ]
+
     os.makedirs('data', exist_ok=True)
     with open('data/movies.json', 'w') as f:
-        json.dump(final_db, f, indent=4)
+        json.dump(movie_list, f, indent=4)
+    
+    print(f"Total movies saved: {len(movie_list)}")
 
 if __name__ == "__main__":
-    update_db()
+    get_movies()
