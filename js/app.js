@@ -1,42 +1,39 @@
 let allMovies = [];
 
-// 1. Fetch data from your GitHub-hosted JSON
 async function fetchMovies() {
     const grid = document.getElementById('movieGrid');
-    grid.innerHTML = '<p style="text-align:center; width:100%;">Loading the latest hits...</p>';
-
+    
     try {
-        // We add a timestamp to the URL to bypass browser cache
-        const response = await fetch(`data/movies.json?v=${new Date().getTime()}`);
+        // We use ./data/ to be extra specific for GitHub Pages
+        const response = await fetch('./data/movies.json');
+        if (!response.ok) throw new Error('File not found');
+        
         allMovies = await response.json();
+        console.log("Data loaded successfully:", allMovies); // This helps us debug
         renderMovies(allMovies);
     } catch (error) {
         console.error("Failed to load movies:", error);
-        grid.innerHTML = '<p style="text-align:center; width:100%;">Syncing data... Please refresh in 60 seconds.</p>';
+        grid.innerHTML = `<p style="color:white; text-align:center;">Error: ${error.message}. Make sure data/movies.json exists!</p>`;
     }
 }
 
-// 2. Build the HTML for the movie cards
 function renderMovies(movies) {
     const grid = document.getElementById('movieGrid');
     grid.innerHTML = '';
 
-    if (movies.length === 0) {
-        grid.innerHTML = '<p style="text-align:center; width:100%;">No movies found matching that search.</p>';
+    if (!movies || movies.length === 0) {
+        grid.innerHTML = '<p style="color:white; text-align:center;">The movie list is currently empty.</p>';
         return;
     }
 
     movies.forEach(movie => {
-        const poster = movie.image && movie.image !== "N/A" 
-            ? movie.image 
-            : 'https://via.placeholder.com/300x450?text=No+Poster+Available';
-
+        const poster = movie.image && movie.image !== "N/A" ? movie.image : 'https://via.placeholder.com/300x450?text=No+Poster';
         const card = document.createElement('div');
         card.className = 'movie-card';
         card.innerHTML = `
-            <img src="${poster}" alt="${movie.title}" loading="lazy">
+            <img src="${poster}" alt="${movie.title}">
             <div class="movie-info">
-                <span class="category-tag">${movie.category}</span>
+                <span class="category-tag">${movie.category || 'Movie'}</span>
                 <h3>${movie.title}</h3>
                 <p>${movie.summary}</p>
                 <a href="${movie.link}" target="_blank" class="btn-details">Full Story</a>
@@ -46,29 +43,20 @@ function renderMovies(movies) {
     });
 }
 
-// 3. Search Bar Logic
 function filterMovies() {
     const query = document.getElementById('searchInput').value.toLowerCase();
     const filtered = allMovies.filter(m => 
         m.title.toLowerCase().includes(query) || 
-        m.category.toLowerCase().includes(query) ||
-        m.summary.toLowerCase().includes(query)
+        (m.category && m.category.toLowerCase().includes(query))
     );
     renderMovies(filtered);
 }
 
-// 4. Dark/Light Mode Toggle
 function toggleTheme() {
-    const body = document.body;
+    document.body.classList.toggle('light-mode');
     const btn = document.getElementById('themeToggle');
-    body.classList.toggle('light-mode');
-    
-    if (body.classList.contains('light-mode')) {
-        btn.innerText = "Switch to Dark Mode";
-    } else {
-        btn.innerText = "Switch to Light Mode";
-    }
+    btn.innerText = document.body.classList.contains('light-mode') ? "Dark Mode" : "Light Mode";
 }
 
-// Start the app
-fetchMovies();
+// Ensure the script waits for the page to be ready
+window.onload = fetchMovies;
