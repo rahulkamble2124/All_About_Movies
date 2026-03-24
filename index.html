@@ -47,7 +47,18 @@
 
         .hero-info h1 { font-size: 4rem; margin: 0; text-shadow: 2px 2px 10px rgba(0,0,0,0.5); }
         .hero-info p { max-width: 500px; color: #ccc; margin: 20px 0; }
-
+<div class="filter-bar">
+    <input type="text" id="search-input" placeholder="Search Movies, Actors, or Directors..." onkeyup="applyFilters()">
+    <select id="genre-select" onchange="applyFilters()">
+        <option value="all">All Genres</option>
+        <option value="Action">Action</option>
+        <option value="Drama">Drama</option>
+        <option value="Sci-Fi">Sci-Fi</option>
+    </select>
+    <select id="year-select" onchange="applyFilters()">
+        <option value="all">All Years</option>
+    </select>
+</div>
         /* Trending Grid */
         .content-section { padding: 40px 5%; }
         .grid {
