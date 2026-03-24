@@ -1,44 +1,744 @@
 [
     {
         "title": "Breaking Bad",
-        "summary": "Rating: 9.2 | Scripted",
+        "summary": "TV Series | Rating: 9.2",
         "link": "https://www.tvmaze.com/shows/169/breaking-bad",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253519.jpg"
     },
     {
         "title": "Stranger Things",
-        "summary": "Rating: 8.4 | Scripted",
+        "summary": "TV Series | Rating: 8.4",
         "link": "https://www.tvmaze.com/shows/2993/stranger-things",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/595/1489169.jpg"
     },
     {
         "title": "Dark",
-        "summary": "Rating: 8.2 | Scripted",
+        "summary": "TV Series | Rating: 8.2",
         "link": "https://www.tvmaze.com/shows/17861/dark",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262352.jpg"
     },
     {
         "title": "The Boys",
-        "summary": "Rating: 8.3 | Scripted",
+        "summary": "TV Series | Rating: 8.3",
         "link": "https://www.tvmaze.com/shows/15299/the-boys",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg"
     },
     {
         "title": "Sacred Games",
-        "summary": "Rating: 7.5 | Scripted",
+        "summary": "TV Series | Rating: 7.5",
         "link": "https://www.tvmaze.com/shows/18197/sacred-games",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/204/511629.jpg"
     },
     {
         "title": "Mirzapur",
-        "summary": "Rating: 7.6 | Scripted",
+        "summary": "TV Series | Rating: 7.6",
         "link": "https://www.tvmaze.com/shows/39868/mirzapur",
         "category": "TV Show",
         "image": "https://static.tvmaze.com/uploads/images/medium_portrait/523/1308189.jpg"
+    },
+    {
+        "title": "Money Heist: Korea - Joint Economic Area",
+        "summary": "TV Series | Rating: 6.5",
+        "link": "https://www.tvmaze.com/shows/59307/money-heist-korea-joint-economic-area",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1076004.jpg"
+    },
+    {
+        "title": "The Mandalorian",
+        "summary": "TV Series | Rating: 8.5",
+        "link": "https://www.tvmaze.com/shows/38963/the-mandalorian",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253498.jpg"
+    },
+    {
+        "title": "Captain Marvel",
+        "summary": "Movie | Released: 2019",
+        "link": "https://www.imdb.com/title/tt4154664/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel One-Shot: Agent Carter",
+        "summary": "Movie | Released: 2013",
+        "link": "https://www.imdb.com/title/tt3067038/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDIwZTM4M2QtMWFhYy00N2VmLWFlMjItMzI3NjBjYTc0OTMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel One-Shot: All Hail the King",
+        "summary": "Movie | Released: 2014",
+        "link": "https://www.imdb.com/title/tt3438640/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGFkMTZkMDQtNzM4Yy00YWEwLTkzOWEtZTMyNDRlNmJhYWJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel One-Shot: Item 47",
+        "summary": "Movie | Released: 2012",
+        "link": "https://www.imdb.com/title/tt2247732/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjNlMzAxNmQtOGEwZi00NTEyLWI0NWYtMTlhNmE2YTA3ZDVhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+        "summary": "Movie | Released: 2011",
+        "link": "https://www.imdb.com/title/tt2011109/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmVlYTg3N2QtMWM2OS00YWQyLWI2M2MtMDc0ZjBkZjk1MTY3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel One-Shot: The Consultant",
+        "summary": "Movie | Released: 2011",
+        "link": "https://www.imdb.com/title/tt2011118/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGE4YjU5MDAtYzYzMC00M2RlLTk0NDgtNDU1MjgyMGI0MjI3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel Studios' Captain Marvel LIVE Red Carpet World Premiere",
+        "summary": "Movie | Released: 2019",
+        "link": "https://www.imdb.com/title/tt9908924/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjgzYjU2MDMtZWNjZC00MTM5LTk1ZWYtYzQxZjQ0YjI4OGFkXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel Studios: Assembling a Universe",
+        "summary": "Movie | Released: 2014",
+        "link": "https://www.imdb.com/title/tt3591568/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWEzNGFjNjYtZGQ4Mi00ODEyLTlkZDYtZjFhMjZjZTdiNWZiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Pok\u00e9mon the Movie: Volcanion and the Mechanical Marvel",
+        "summary": "Movie | Released: 2016",
+        "link": "https://www.imdb.com/title/tt5889204/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0NzI2Y2YtOGVjYi00YTUwLWEwNmEtODk1YjlhYzQ0ZTY5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Marvel Rising: Secret Warriors",
+        "summary": "Movie | Released: 2018",
+        "link": "https://www.imdb.com/title/tt7728344/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFhZGQ0ZmItMGY1Yy00NjY1LTlmYzItODhhMWQ3OWFlZWViXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Avengers",
+        "summary": "Movie | Released: 2012",
+        "link": "https://www.imdb.com/title/tt0848228/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "summary": "Movie | Released: 2019",
+        "link": "https://www.imdb.com/title/tt4154796/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "summary": "Movie | Released: 2018",
+        "link": "https://www.imdb.com/title/tt4154756/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "summary": "Movie | Released: 2015",
+        "link": "https://www.imdb.com/title/tt2395427/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Ultimate Avengers: The Movie",
+        "summary": "Movie | Released: 2006",
+        "link": "https://www.imdb.com/title/tt0491703/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+    },
+    {
+        "title": "Ultimate Avengers II",
+        "summary": "Movie | Released: 2006",
+        "link": "https://www.imdb.com/title/tt0803093/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Next Avengers: Heroes of Tomorrow",
+        "summary": "Movie | Released: 2008",
+        "link": "https://www.imdb.com/title/tt1259998/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NjExNjY4N15BMl5BanBnXkFtZTcwNTczODkwNQ@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Avengers Confidential: Black Widow & Punisher",
+        "summary": "Movie | Released: 2014",
+        "link": "https://www.imdb.com/title/tt3482378/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0Njk4MF5BMl5BanBnXkFtZTgwMTY0OTIyMTE@._V1_SX300.jpg"
+    },
+    {
+        "title": "Crippled Avengers",
+        "summary": "Movie | Released: 1978",
+        "link": "https://www.imdb.com/title/tt0077292/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjU2ODU5NzMtMzQ2NC00MmI5LWI1NjMtNmRmMjMzOTMxNWZhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman Begins",
+        "summary": "Movie | Released: 2005",
+        "link": "https://www.imdb.com/title/tt0372784/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Batman",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt1877830/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman v Superman: Dawn of Justice",
+        "summary": "Movie | Released: 2016",
+        "link": "https://www.imdb.com/title/tt2975590/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman",
+        "summary": "Movie | Released: 1989",
+        "link": "https://www.imdb.com/title/tt0096895/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman Returns",
+        "summary": "Movie | Released: 1992",
+        "link": "https://www.imdb.com/title/tt0103776/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman & Robin",
+        "summary": "Movie | Released: 1997",
+        "link": "https://www.imdb.com/title/tt0118688/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman Forever",
+        "summary": "Movie | Released: 1995",
+        "link": "https://www.imdb.com/title/tt0112462/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Lego Batman Movie",
+        "summary": "Movie | Released: 2017",
+        "link": "https://www.imdb.com/title/tt4116284/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg"
+    },
+    {
+        "title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
+        "summary": "Movie | Released: 2016",
+        "link": "https://www.imdb.com/title/tt18689424/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTRlNWQwM2ItNjkyZC00MGI3LThkYjktZmE5N2FlMzcyNTIyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "summary": "Movie | Released: 2021",
+        "link": "https://www.imdb.com/title/tt10872600/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0145487/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "summary": "Movie | Released: 2017",
+        "link": "https://www.imdb.com/title/tt2250912/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man 2",
+        "summary": "Movie | Released: 2004",
+        "link": "https://www.imdb.com/title/tt0316654/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "summary": "Movie | Released: 2018",
+        "link": "https://www.imdb.com/title/tt4633694/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Amazing Spider-Man",
+        "summary": "Movie | Released: 2012",
+        "link": "https://www.imdb.com/title/tt0948470/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man 3",
+        "summary": "Movie | Released: 2007",
+        "link": "https://www.imdb.com/title/tt0413300/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man: Far from Home",
+        "summary": "Movie | Released: 2019",
+        "link": "https://www.imdb.com/title/tt6320628/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "summary": "Movie | Released: 2014",
+        "link": "https://www.imdb.com/title/tt1872181/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "summary": "Movie | Released: 2023",
+        "link": "https://www.imdb.com/title/tt9362722/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "summary": "Movie | Released: 1977",
+        "link": "https://www.imdb.com/title/tt0076759/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "summary": "Movie | Released: 1980",
+        "link": "https://www.imdb.com/title/tt0080684/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "summary": "Movie | Released: 1983",
+        "link": "https://www.imdb.com/title/tt0086190/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "summary": "Movie | Released: 2015",
+        "link": "https://www.imdb.com/title/tt2488496/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "summary": "Movie | Released: 1999",
+        "link": "https://www.imdb.com/title/tt0120915/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "summary": "Movie | Released: 2005",
+        "link": "https://www.imdb.com/title/tt0121766/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0121765/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "summary": "Movie | Released: 2016",
+        "link": "https://www.imdb.com/title/tt3748528/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode VIII - The Last Jedi",
+        "summary": "Movie | Released: 2017",
+        "link": "https://www.imdb.com/title/tt2527336/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg"
+    },
+    {
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "summary": "Movie | Released: 2019",
+        "link": "https://www.imdb.com/title/tt2527338/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Last Action Hero",
+        "summary": "Movie | Released: 1993",
+        "link": "https://www.imdb.com/title/tt0107362/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Back in Action",
+        "summary": "Movie | Released: 2025",
+        "link": "https://www.imdb.com/title/tt21191806/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Looney Tunes: Back in Action",
+        "summary": "Movie | Released: 2003",
+        "link": "https://www.imdb.com/title/tt0318155/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDU2NmU2YzktNWFlMC00MDk1LWFhZjQtYjUxZThiMjZhNjQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "An Action Hero",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt15600222/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "A Civil Action",
+        "summary": "Movie | Released: 1998",
+        "link": "https://www.imdb.com/title/tt0120633/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgyNDNkYTMtYmU0NC00YjliLWFhNjgtMmFhOTQ1MmE4NzNmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Missing in Action",
+        "summary": "Movie | Released: 1984",
+        "link": "https://www.imdb.com/title/tt0087727/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Action Jackson",
+        "summary": "Movie | Released: 1988",
+        "link": "https://www.imdb.com/title/tt0094612/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzY1N2NjMjYtM2U3OS00OTMzLTk4OGEtMWI1YjUwMWRjODQ1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Action Point",
+        "summary": "Movie | Released: 2018",
+        "link": "https://www.imdb.com/title/tt6495770/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTU5MTk1N15BMl5BanBnXkFtZTgwMzIzMzczNTM@._V1_SX300.jpg"
+    },
+    {
+        "title": "321 Action",
+        "summary": "Movie | Released: 2020",
+        "link": "https://www.imdb.com/title/tt13423846/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdlNmZiYmItYTkyZC00NDNhLWEzMDctZjJhMDNjZWJkNTRlXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Missing in Action 2: The Beginning",
+        "summary": "Movie | Released: 1985",
+        "link": "https://www.imdb.com/title/tt0089604/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjQwNjUxZjUtYmUxOS00YmRjLTljZTgtMTc0OTFlZDllZjM5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Bollywood/Hollywood",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0303785/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTQ2NjAyZmUtNTFlYS00YTg2LWE1ZGUtYTEyNmFlM2Y4NTE1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Bollywood Bound",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0296535/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDY2MjdlYTUtM2RjZC00NTc0LWEwMjktMDgwMmQ0Y2I0MTE0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Bollywood im Alpenrausch",
+        "summary": "Movie | Released: 2000",
+        "link": "https://www.imdb.com/title/tt0297032/",
+        "category": "Movie",
+        "image": ""
+    },
+    {
+        "title": "Sunset Bollywood",
+        "summary": "Movie | Released: 2005",
+        "link": "https://www.imdb.com/title/tt1475415/",
+        "category": "Movie",
+        "image": ""
+    },
+    {
+        "title": "Bollywood Remixed - Das indische Kino erobert den Westen",
+        "summary": "Movie | Released: 2004",
+        "link": "https://www.imdb.com/title/tt0772737/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGY3MDllM2YtMmEwZS00NWFhLWIwOTUtZDEwMmUyM2ZlOGFmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Bollywood - Indiens klingendes Kino",
+        "summary": "Movie | Released: 2005",
+        "link": "https://www.imdb.com/title/tt1037020/",
+        "category": "Movie",
+        "image": ""
+    },
+    {
+        "title": "Bollywood for Beginners",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0328903/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDJkYTc3NzQtODViZi00MzY0LTlkYmMtMWJhZjdjOGQ2Zjc4XkEyXkFqcGdeQXVyMTE0NDMyMzQ@._V1_SX300.jpg"
+    },
+    {
+        "title": "Sabrina's Bollywood",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0342949/",
+        "category": "Movie",
+        "image": ""
+    },
+    {
+        "title": "Bollywood Queen",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0321494/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWQ2ZDUwNDMtMmI1Ny00ZjlmLTkwN2ItNTdhZWYyMDE4ZmVlXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Bollywood Calling",
+        "summary": "Movie | Released: 2001",
+        "link": "https://www.imdb.com/title/tt0303733/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWU0MDZlMDctYzRiNy00YWM4LWE2ODktZmNhZTkyZDE5MGQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "2025 - The World enslaved by a Virus",
+        "summary": "Movie | Released: 2021",
+        "link": "https://www.imdb.com/title/tt13788842/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTAxMWJjNWEtODNiMy00NDE2LThmOTItNTQ4ZmJmYTMwMGE2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Airplane 2025",
+        "summary": "Movie | Released: 2025",
+        "link": "https://www.imdb.com/title/tt34956433/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExYjQ0MGItZmFhOC00N2YxLWEzYzktZTM2OTg1ODk0ZTgxXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Battlefield 2025",
+        "summary": "Movie | Released: 2020",
+        "link": "https://www.imdb.com/title/tt8134980/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWNlNjU5OWUtOWRhYi00OTU0LWI2ODMtOTYyMzhhNGI2M2I3XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Lockdown 2025",
+        "summary": "Movie | Released: 2021",
+        "link": "https://www.imdb.com/title/tt14096564/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTk3M2UwYzYtM2UyYS00MmQzLTg2NDQtNjRlOTU3MTQyMTA5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "A Date in 2025",
+        "summary": "Movie | Released: 2017",
+        "link": "https://www.imdb.com/title/tt6090846/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWEzYTljZjEtNGUwYy00NTJmLWExODktMzllNzdhZTM4YmVmXkEyXkFqcGdeQXVyMjA2Mzk1MTE@._V1_SX300.jpg"
+    },
+    {
+        "title": "2025 Armageddon",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt24057390/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA3ZWQ3NDYtMWY1Zi00NTA5LWI5ZmQtYWFhMWRiNTg3MjcxXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "2025: Blood, White & Blue",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt9893130/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjlmMWIwMzYtNDgwMi00Mzg1LWE0YjItODJkZTc1MTRhMTRhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "2025",
+        "summary": "Movie | Released: 2015",
+        "link": "https://www.imdb.com/title/tt3963348/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MTY3MTQ4Ml5BMl5BanBnXkFtZTgwOTI3MjM5NDE@._V1_SX300.jpg"
+    },
+    {
+        "title": "Kudukku 2025",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt14481696/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTA0YzI3M2ItNzA3My00M2MxLWI3ZjgtMzZjYjFhNDU5NzRkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Game Awards 2025",
+        "summary": "Movie | Released: 2025",
+        "link": "https://www.imdb.com/title/tt38493874/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzExNTIxOGYtMTM2Zi00MWJiLWJiYWQtMGQzZWQyNWQ5ZTk2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Red Sea Film Fest 2024",
+        "summary": "Movie | Released: 2025",
+        "link": "https://www.imdb.com/title/tt39144540/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjU4YTUwNjUtOTBlMC00ZGZmLWJlNjEtYWE0MzczMGIyMjJlXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Torching 2024: A Roast of the Year",
+        "summary": "Movie | Released: 2024",
+        "link": "https://www.imdb.com/title/tt34909701/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmQ2YzQtYjZlYS00MWJkLWE3ODctMGU0ZmMyZmVhNDEzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Trump 2024: The World After Trump",
+        "summary": "Movie | Released: 2020",
+        "link": "https://www.imdb.com/title/tt12787726/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTYxYzZhNjQtY2FmZi00OGUzLTlhZjgtYjcxNjVhZDkxMjA5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Vogue Film Ekim 2024: Kerem B\u00fcrsin ve Devrim \u00d6zkan",
+        "summary": "Movie | Released: 2024",
+        "link": "https://www.imdb.com/title/tt36642319/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWI1MTJlMzItZjM4Mi00OWQxLThhYmMtOTdjYTk1OTFlNDkxXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "The Purge: 2024",
+        "summary": "Movie | Released: 2017",
+        "link": "https://www.imdb.com/title/tt7553974/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGRjOWUyM2EtNTMyNS00NTYyLTliMDctMDcwY2UxNGFmOTBjXkEyXkFqcGdeQXVyNjE0NzI3MTg@._V1_SX300.jpg"
+    },
+    {
+        "title": "Dimension 1991-2024",
+        "summary": "Movie | Released: 2010",
+        "link": "https://www.imdb.com/title/tt1888523/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDMwNDRmMTktY2NlZS00NDAzLWJjMTEtNTcyY2YyZTY0NWFlXkEyXkFqcGdeQXVyNjk0NTY0ODA@._V1_SX300.jpg"
+    },
+    {
+        "title": "2024 MTV Video Music Awards",
+        "summary": "Movie | Released: 2024",
+        "link": "https://www.imdb.com/title/tt32207059/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzFiZDU1MjYtMjJlMy00NmExLWJlOGQtZWY3OTc4MDFmZmYyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "2024",
+        "summary": "Movie | Released: 2021",
+        "link": "https://www.imdb.com/title/tt16141116/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGUzNDA3NGUtNDIxMC00ZmM0LTk3NDctNmU3MDUzMGJhMzhhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Episodes: Ukraine at the World Cup (2024)",
+        "summary": "Movie | Released: 2024",
+        "link": "https://www.imdb.com/title/tt32566611/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFmMmE4NmYtOGFmOC00ZThkLTgxODgtMTljMzdjNGUzOWYzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "2024 EE BAFTA Film Awards",
+        "summary": "Movie | Released: 2024",
+        "link": "https://www.imdb.com/title/tt31390646/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTNmMTM2ZTQtMDVkMC00NzYxLWEzZWMtZjAwMTAwMmZiMjU5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Crazy, Stupid, Love.",
+        "summary": "Movie | Released: 2011",
+        "link": "https://www.imdb.com/title/tt1570728/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Love Actually",
+        "summary": "Movie | Released: 2003",
+        "link": "https://www.imdb.com/title/tt0314331/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "summary": "Movie | Released: 1964",
+        "link": "https://www.imdb.com/title/tt0057012/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Thor: Love and Thunder",
+        "summary": "Movie | Released: 2022",
+        "link": "https://www.imdb.com/title/tt10648342/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "Love & Other Drugs",
+        "summary": "Movie | Released: 2010",
+        "link": "https://www.imdb.com/title/tt0758752/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Shakespeare in Love",
+        "summary": "Movie | Released: 1998",
+        "link": "https://www.imdb.com/title/tt0138097/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "I Love You, Man",
+        "summary": "Movie | Released: 2009",
+        "link": "https://www.imdb.com/title/tt1155056/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg"
+    },
+    {
+        "title": "P.S. I Love You",
+        "summary": "Movie | Released: 2007",
+        "link": "https://www.imdb.com/title/tt0431308/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTg2MDg4MjI5NV5BMl5BanBnXkFtZTcwMzQ0MDczMw@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Punch-Drunk Love",
+        "summary": "Movie | Released: 2002",
+        "link": "https://www.imdb.com/title/tt0272338/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "title": "In the Mood for Love",
+        "summary": "Movie | Released: 2000",
+        "link": "https://www.imdb.com/title/tt0118694/",
+        "category": "Movie",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg"
     }
 ]
