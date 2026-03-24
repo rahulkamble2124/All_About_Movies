@@ -1,27 +1,36 @@
 name: Movie Collector
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Every night
-  workflow_dispatch:
-jobs:
-  - name: Install dependencies
-        run: |
-          pip install requests wikipedia-api
+    - cron: '0 0 * * *' # Runs automatically every night at 12:00 AM
+  workflow_dispatch:      # This creates the "Run workflow" button you need
 
-      - name: Run Script
-        run: |
-          python scripts/collector.py
-steps:
-      - uses: actions/checkout@v4
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests wikipedia-api
 
-      - name: Run Script
+      - name: Run Movie Collector Script
         run: |
           python scripts/collector.py
+
+      - name: Commit and Push Data Updates
+        run: |
+          git config --global user.name 'CinemaHub-Bot'
+          git config --global user.email 'bot@github.com'
+          git add data/movies.json
+          git commit -m "Auto-update: New Movie Data Synchronized" || echo "No changes to commit"
+          git push
