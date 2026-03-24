@@ -2,42 +2,35 @@ import requests
 import json
 import os
 
-# CONFIGURATION (Zero Cost)
-OMDB_API_KEY = "eb48e89" # This is a common public key; get your own for free at omdbapi.com
-WIKI_API_URL = "https://en.wikipedia.org/w/api.php"
+# CONFIGURATION
+OMDB_KEY = "eb48e89" # Free 1000/day limit. Get your own at omdbapi.com
+WIKI_URL = "https://en.wikipedia.org/api/rest_v1/page/summary/"
 
-def get_movie_data(title):
-    # Fetching from OMDb (Hollywood/Bollywood compatible)
-    url = f"http://www.omdbapi.com/?t={title}&apikey={OMDB_API_KEY}"
-    return requests.get(url).json()
+def fetch_wiki_bio(name):
+    try:
+        # Wikipedia REST API is 100% free and commercial-friendly
+        res = requests.get(WIKI_URL + name.replace(" ", "_")).json()
+        return {"bio": res.get("extract", "No bio found."), "source": res.get("content_urls", {}).get("desktop", {}).get("page", "")}
+    except:
+        return {"bio": "Biography pending update.", "source": "https://wikipedia.org"}
 
-def get_wiki_summary(search_term):
-    # Fetching from Wikipedia (100% Free)
-    params = {
-        "action": "query", "format": "json", "prop": "extracts",
-        "exintro": True, "explaintext": True, "titles": search_term
-    }
-    resp = requests.get(WIKI_API_URL, params=params).json()
-    pages = resp.get("query", {}).get("pages", {})
-    for page_id in pages:
-        return pages[page_id].get("extract", "No biography available.")
-    return "No info found."
+def update_db():
+    # Example starting list - the script will gather data for these
+    movies_to_track = ["Jawan", "Avengers: Endgame", "Pathaan", "Inception"]
+    final_db = []
 
-def run_sync():
-    # Example: List of movies to track (You can automate this list later)
-    movie_titles = ["Pathaan", "Avatar: The Way of Water", "Jawan", "Deadpool & Wolverine"]
-    database = []
-
-    for title in movie_titles:
-        data = get_movie_data(title)
-        if data.get("Response") == "True":
-            # Add Director & Actor Bio from Wiki
-            data["Director_Bio"] = get_wiki_summary(data["Director"])
-            database.append(data)
-            print(f"Synced: {title}")
-
+    for title in movies_to_track:
+        m = requests.get(f"http://www.omdbapi.com/?t={title}&apikey={OMDB_KEY}").json()
+        if m.get("Response") == "True":
+            # Adding Director & Actor Bios
+            m["Director_Info"] = fetch_wiki_bio(m["Director"])
+            m["Actor_Bios"] = [fetch_wiki_bio(name) for name in m["Actors"].split(", ")]
+            final_db.append(m)
+    
+    # Save into the data folder
+    os.makedirs('data', exist_ok=True)
     with open('data/movies.json', 'w') as f:
-        json.dump(database, f, indent=4)
+        json.dump(final_db, f, indent=4)
 
 if __name__ == "__main__":
-    run_sync()
+    update_db()
