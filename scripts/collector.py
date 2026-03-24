@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-
+import wikipediaapi  # This must be one word
 # CONFIGURATION
 OMDB_KEY = "eb48e89" # Free 1000/day limit. Get your own at omdbapi.com
 WIKI_URL = "https://en.wikipedia.org/api/rest_v1/page/summary/"
