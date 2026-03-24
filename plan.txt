@@ -1,0 +1,17 @@
+/mcu-global-db
+├── .github/workflows/update.yml  <-- The Auto-Pilot
+├── index.html                    <-- Home Page (Trending)
+├── movie-details.html            <-- Deep Details Page
+├── actor-details.html            <-- Actor Profiles
+├── search.html                   <-- Search & Filters
+├── css/
+│   └── style.css                 <-- High-end Design
+├── js/
+│   ├── app.js                    <-- UI Logic
+│   └── theme-engine.js           <-- Color Palette Generator
+├── data/
+│   ├── movies.json               <-- Auto-filled
+│   ├── actors.json               <-- Auto-filled
+│   └── news.json                 <-- Auto-filled
+└── scripts/
+    └── collector.py              <-- The Python Scraper
