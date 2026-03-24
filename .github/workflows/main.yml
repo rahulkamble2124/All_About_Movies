@@ -1,9 +1,11 @@
-name: Movie Collector
+name: Movie & TV Collector
 
 on:
   schedule:
+    # This triggers the "Auto-Pilot" every night at 12:00 AM UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
+    # This allows you to click the "Run workflow" button manually anytime
 
 permissions:
   contents: write
@@ -24,9 +26,9 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests wikipedia-api
+          pip install requests
 
-      - name: Run Movie Collector Script
+      - name: Run Collector Script
         run: |
           python scripts/collector.py
 
@@ -35,5 +37,6 @@ jobs:
           git config --global user.name 'CinemaHub-Bot'
           git config --global user.email 'bot@github.com'
           git add data/movies.json
-          git commit -m "Auto-update: New Movie Data Synchronized" || echo "No changes to commit"
+          # The "|| echo" prevents the workflow from failing if there are no new movies found
+          git commit -m "Auto-Update: Global Movie & TV Data Synced" || echo "No changes to commit"
           git push
