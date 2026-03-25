@@ -5,53 +5,50 @@ import time
 
 def get_data():
     movie_list = []
-    omdb_key = '52d4ec2e' # <--- ENTER YOUR KEY HERE
+    omdb_key = '52d4ec2e' # Get for free at omdbapi.com
     
-    # We use these queries to fill your "By Studio" and "By Genre" sections
-    search_queries = [
-        {"q": "Marvel", "cat": "Marvel Studios"},
-        {"q": "Avengers", "cat": "Marvel Studios"},
-        {"q": "Batman", "cat": "DC Universe"},
-        {"q": "Action", "cat": "Action"},
-        {"q": "Bollywood", "cat": "Bollywood"},
-        {"q": "Christopher Nolan", "cat": "Director's Cut"},
-    ]
+    # 1. TV SHOWS (Free TVMaze API)
+    print("Fetching TV...")
+    tv_res = requests.get("https://api.tvmaze.com/schedule/full").json()[:10]
+    for s in tv_res:
+        movie_list.append({
+            "id": str(s['id']),
+            "title": s.get('name', 'Show'),
+            "year": "2026",
+            "director": "Various",
+            "genre": "Reality/TV",
+            "imdbRating": "7.5",
+            "category": "TV Show",
+            "image": s.get('image', {}).get('medium', '') if s.get('image') else "",
+            "budget": "TV Budget",
+            "revenue": "Network Revenue"
+        })
 
-    print("🚀 Collecting Detailed Data...")
-
-    for item in search_queries:
-        try:
-            url = f"http://www.omdbapi.com/?s={item['q']}&apikey={omdb_key}"
-            res = requests.get(url).json()
-            
-            if res.get('Response') == 'True':
-                for short_m in res.get('Search', [])[:6]:
-                    # Fetching full details for each specific movie ID
-                    detail_url = f"http://www.omdbapi.com/?i={short_m['imdbID']}&apikey={omdb_key}"
-                    m = requests.get(detail_url).json()
-                    
-                    if m.get('Response') == 'True' and not any(x['id'] == m['imdbID'] for x in movie_list):
-                        movie_list.append({
-                            "id": m['imdbID'],
-                            "title": m['Title'],
-                            "year": m['Year'],
-                            "director": m.get('Director', 'N/A'),
-                            "actors": m.get('Actors', 'N/A'),
-                            "genre": m.get('Genre', 'N/A'),
-                            "plot": m.get('Plot', 'No plot available.'),
-                            "imdbRating": m.get('imdbRating', '0.0'),
-                            "category": item['cat'],
-                            "image": m['Poster'] if (m['Poster'] and m['Poster'] != "N/A") else "",
-                            "trailer_query": f"{m['Title']} {m['Year']} official trailer"
-                        })
-            time.sleep(0.1) # Prevents the API from blocking us
-        except Exception as e:
-            print(f"Error: {e}")
+    # 2. MOVIES (OMDb Free)
+    keywords = ["Marvel", "Avatar", "Batman", "Pathaan"]
+    for word in keywords:
+        res = requests.get(f"http://www.omdbapi.com/?s={word}&apikey={omdb_key}").json()
+        if res.get('Response') == 'True':
+            for m in res.get('Search', [])[:5]:
+                # Get details
+                d = requests.get(f"http://www.omdbapi.com/?i={m['imdbID']}&apikey={omdb_key}").json()
+                movie_list.append({
+                    "id": m['imdbID'],
+                    "title": d['Title'],
+                    "year": d['Year'],
+                    "director": d['Director'],
+                    "genre": d['Genre'],
+                    "imdbRating": d['imdbRating'],
+                    "category": "Movie",
+                    "image": d['Poster'],
+                    "budget": "$200M", # Placeholder for free tier
+                    "revenue": "$800M"
+                })
+        time.sleep(0.1)
 
     os.makedirs('data', exist_ok=True)
     with open('data/movies.json', 'w') as f:
         json.dump(movie_list, f, indent=4)
-    print(f"✅ Saved {len(movie_list)} movies.")
 
 if __name__ == "__main__":
     get_data()
