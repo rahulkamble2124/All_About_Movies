@@ -5,49 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CinemaHub | Home</title>
     <style>
-        :root { --primary: #e50914; --bg: #111; --card: #222; --text: #fff; }
+        :root { --primary: #e50914; --bg: #0f0f0f; --card: #1f1f1f; --text: #fff; }
         body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
         header { text-align: center; padding: 40px 0; }
         .nav-filters { display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap; }
         .nav-filters button { 
-            background: var(--card); color: white; border: 1px solid #444; padding: 10px 20px; 
-            border-radius: 20px; cursor: pointer; transition: 0.3s;
+            background: var(--card); color: white; border: 1px solid #333; padding: 10px 20px; 
+            border-radius: 25px; cursor: pointer; transition: 0.3s;
         }
-        .nav-filters button:hover { border-color: var(--primary); color: var(--primary); }
+        .nav-filters button:hover, .nav-filters button.active { border-color: var(--primary); background: var(--primary); }
         #searchInput { 
-            display: block; width: 80%; max-width: 600px; margin: 0 auto 40px; 
-            padding: 15px; border-radius: 30px; border: none; background: var(--card); color: white;
+            display: block; width: 90%; max-width: 600px; margin: 0 auto 30px; 
+            padding: 15px 25px; border-radius: 30px; border: 2px solid #333; background: #000; color: white;
         }
         .movie-grid { 
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
-            gap: 25px; max-width: 1200px; margin: 0 auto; 
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
+            gap: 30px; max-width: 1300px; margin: 0 auto; 
         }
         .movie-card { 
-            background: var(--card); border-radius: 12px; overflow: hidden; 
-            transition: 0.3s; cursor: pointer; position: relative;
+            background: var(--card); border-radius: 15px; overflow: hidden; 
+            transition: 0.3s; cursor: pointer; border: 1px solid #222;
         }
-        .movie-card:hover { transform: scale(1.05); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
-        .movie-card img { width: 100%; height: 300px; object-fit: cover; }
-        .info { padding: 15px; }
-        .info h3 { margin: 0; font-size: 16px; color: var(--primary); }
-        .tag { font-size: 12px; color: #888; text-transform: uppercase; }
+        .movie-card:hover { transform: translateY(-10px); border-color: var(--primary); }
+        .movie-card img { width: 100%; height: 320px; object-fit: cover; }
+        .info { padding: 15px; position: relative; }
+        .rating-badge { 
+            position: absolute; top: -45px; right: 10px; 
+            background: var(--primary); padding: 5px 10px; border-radius: 5px; font-weight: bold; font-size: 14px;
+        }
+        .info h3 { margin: 5px 0; font-size: 17px; }
+        .tag { font-size: 11px; color: #888; text-transform: uppercase; letter-spacing: 1px; }
     </style>
 </head>
 <body>
 
     <header>
-        <h1 style="color: var(--primary); letter-spacing: 4px;">CINEMA HUB</h1>
-        <p>Your Ultimate Movie & TV Database</p>
+        <h1 style="color: var(--primary); font-size: 2.5rem; margin: 0;">CINEMA HUB</h1>
+        <p style="color: #666;">Automated Media Explorer</p>
     </header>
 
-    <input type="text" id="searchInput" placeholder="Search by title, actor, or director..." onkeyup="filterData()">
+    <input type="text" id="searchInput" placeholder="Search Marvel, Bollywood, Actors..." onkeyup="filterData()">
 
     <div class="nav-filters">
-        <button onclick="filterData('All')">All</button>
-        <button onclick="filterData('Marvel Studios')">Marvel</button>
-        <button onclick="filterData('Bollywood')">Bollywood</button>
-        <button onclick="filterData('Action')">Action</button>
-        <button onclick="filterData('DC Universe')">DC Universe</button>
+        <button class="active" onclick="filterData('All', this)">All Content</button>
+        <button onclick="filterData('Marvel Studios', this)">Marvel</button>
+        <button onclick="filterData('Bollywood', this)">Bollywood</button>
+        <button onclick="filterData('Action', this)">Action</button>
+        <button onclick="filterData('DC Universe', this)">DC Universe</button>
     </div>
 
     <div class="movie-grid" id="movieGrid"></div>
@@ -60,7 +64,7 @@
                 const res = await fetch('data/movies.json');
                 allData = await res.json();
                 render(allData);
-            } catch (e) { document.getElementById('movieGrid').innerHTML = "Loading database..."; }
+            } catch (e) { document.getElementById('movieGrid').innerHTML = "Database syncing..."; }
         }
 
         function render(data) {
@@ -69,20 +73,23 @@
                 <div class="movie-card" onclick="location.href='movie.html?id=${m.id}'">
                     <img src="${m.image || 'https://via.placeholder.com/300x450'}" alt="${m.title}">
                     <div class="info">
+                        <div class="rating-badge">★ ${m.imdbRating}</div>
                         <span class="tag">${m.category}</span>
                         <h3>${m.title}</h3>
-                        <p style="font-size:12px; color:#666;">${m.year}</p>
+                        <p style="font-size:12px; color:#555;">${m.genre}</p>
                     </div>
                 </div>
             `).join('');
         }
 
-        function filterData(category = '') {
+        function filterData(category = '', btn = null) {
+            if(btn) {
+                document.querySelectorAll('.nav-filters button').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+            }
             const search = document.getElementById('searchInput').value.toLowerCase();
             const filtered = allData.filter(m => {
-                const matchesSearch = m.title.toLowerCase().includes(search) || 
-                                    m.director.toLowerCase().includes(search) ||
-                                    m.actors.toLowerCase().includes(search);
+                const matchesSearch = m.title.toLowerCase().includes(search) || (m.actors && m.actors.toLowerCase().includes(search));
                 const matchesCat = category === 'All' || category === '' || m.category === category;
                 return matchesSearch && matchesCat;
             });
