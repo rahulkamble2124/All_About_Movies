@@ -1,0 +1,21 @@
+function showNews() {
+    const grid = document.getElementById('mainGrid');
+    document.getElementById('sectionTitle').innerText = "Media News & Awards 2026";
+    
+    // Simulated News Data (You can later automate this with a RSS feed script)
+    const news = [
+        { title: "MCU Phase 6 Roadmap Leaked", date: "March 2026", img: "https://via.placeholder.com/400x200?text=Marvel+News" },
+        { title: "Oscar 2026: The Full Winner List", date: "Feb 2026", img: "https://via.placeholder.com/400x200?text=Awards+News" },
+        { title: "Avatar 3 Production Budget Revealed", date: "Jan 2026", img: "https://via.placeholder.com/400x200?text=Avatar+News" }
+    ];
+
+    grid.innerHTML = news.map(n => `
+        <div class="m-card" style="grid-column: span 1;">
+            <img src="${n.img}" style="height: 150px;">
+            <div class="m-info">
+                <h3>${n.title}</h3>
+                <span style="color: #64748b;">Published: ${n.date}</span>
+            </div>
+        </div>
+    `).join('');
+}
