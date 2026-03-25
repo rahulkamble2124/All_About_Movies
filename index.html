@@ -3,100 +3,129 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CinemaHub | Home</title>
+    <title>CinemaHub | Global Media</title>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <style>
-        :root { --primary: #e50914; --bg: #0f0f0f; --card: #1f1f1f; --text: #fff; }
-        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
-        header { text-align: center; padding: 40px 0; }
-        .nav-filters { display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap; }
-        .nav-filters button { 
-            background: var(--card); color: white; border: 1px solid #333; padding: 10px 20px; 
-            border-radius: 25px; cursor: pointer; transition: 0.3s;
+        :root {
+            --primary: #6366f1;
+            --bg: #f1f5f9;
+            --glass: rgba(255, 255, 255, 0.9);
+            --text: #1e293b;
         }
-        .nav-filters button:hover, .nav-filters button.active { border-color: var(--primary); background: var(--primary); }
-        #searchInput { 
-            display: block; width: 90%; max-width: 600px; margin: 0 auto 30px; 
-            padding: 15px 25px; border-radius: 30px; border: 2px solid #333; background: #000; color: white;
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg); color: var(--text); margin: 0; }
+        
+        /* Premium Navbar */
+        nav { 
+            background: var(--glass); backdrop-filter: blur(15px);
+            padding: 15px 5%; display: flex; justify-content: space-between; align-items: center;
+            position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid rgba(0,0,0,0.05);
         }
-        .movie-grid { 
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
-            gap: 30px; max-width: 1300px; margin: 0 auto; 
+        .logo { font-size: 26px; font-weight: 800; color: var(--primary); letter-spacing: -1px; }
+        .nav-tabs { display: flex; gap: 25px; }
+        .nav-tabs a { text-decoration: none; color: #64748b; font-weight: 600; font-size: 15px; transition: 0.3s; cursor: pointer; }
+        .nav-tabs a:hover, .nav-tabs a.active { color: var(--primary); }
+
+        /* Hero Banner */
+        .hero { 
+            background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+            height: 300px; display: flex; flex-direction: column; align-items: center; justify-content: center;
+            color: white; text-align: center; border-radius: 0 0 40px 40px; margin-bottom: 40px;
         }
-        .movie-card { 
-            background: var(--card); border-radius: 15px; overflow: hidden; 
-            transition: 0.3s; cursor: pointer; border: 1px solid #222;
+
+        /* Search Bar */
+        #mainSearch {
+            width: 80%; max-width: 600px; padding: 18px 30px; border-radius: 50px;
+            border: none; margin-top: -30px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            font-size: 16px; outline: none; display: block; margin-left: auto; margin-right: auto;
         }
-        .movie-card:hover { transform: translateY(-10px); border-color: var(--primary); }
-        .movie-card img { width: 100%; height: 320px; object-fit: cover; }
-        .info { padding: 15px; position: relative; }
-        .rating-badge { 
-            position: absolute; top: -45px; right: 10px; 
-            background: var(--primary); padding: 5px 10px; border-radius: 5px; font-weight: bold; font-size: 14px;
+
+        /* Content Sections */
+        .container { max-width: 1300px; margin: 0 auto; padding: 20px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 30px; }
+        
+        /* Modern White Cards */
+        .m-card {
+            background: white; border-radius: 20px; overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02); transition: 0.4s; cursor: pointer;
+            border: 1px solid rgba(0,0,0,0.05);
         }
-        .info h3 { margin: 5px 0; font-size: 17px; }
-        .tag { font-size: 11px; color: #888; text-transform: uppercase; letter-spacing: 1px; }
+        .m-card:hover { transform: translateY(-10px); box-shadow: 0 20px 40px rgba(0,0,0,0.08); }
+        .m-card img { width: 100%; height: 320px; object-fit: cover; }
+        .m-info { padding: 20px; }
+        .m-info h3 { margin: 0 0 5px; font-size: 18px; color: #1e293b; }
+        .m-tag { display: inline-block; padding: 4px 10px; background: #f1f5f9; border-radius: 6px; font-size: 11px; color: #6366f1; font-weight: bold; margin-bottom: 10px; }
+
+        footer { text-align: center; padding: 60px; color: #94a3b8; font-size: 14px; }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1 style="color: var(--primary); font-size: 2.5rem; margin: 0;">CINEMA HUB</h1>
-        <p style="color: #666;">Automated Media Explorer</p>
-    </header>
+    <nav>
+        <div class="logo">CinemaHub.</div>
+        <div class="nav-tabs">
+            <a onclick="filterTab('All')">Home</a>
+            <a onclick="filterTab('Movie')">Movies</a>
+            <a onclick="filterTab('TV Show')">TV Shows</a>
+            <a href="about.html">About</a>
+        </div>
+        <div id="google_translate_element"></div>
+    </nav>
 
-    <input type="text" id="searchInput" placeholder="Search Marvel, Bollywood, Actors..." onkeyup="filterData()">
-
-    <div class="nav-filters">
-        <button class="active" onclick="filterData('All', this)">All Content</button>
-        <button onclick="filterData('Marvel Studios', this)">Marvel</button>
-        <button onclick="filterData('Bollywood', this)">Bollywood</button>
-        <button onclick="filterData('Action', this)">Action</button>
-        <button onclick="filterData('DC Universe', this)">DC Universe</button>
+    <div class="hero">
+        <h1 style="font-size: 3rem; margin: 0;">Discover the Blockbusters</h1>
+        <p style="opacity: 0.8;">Explore thousands of movies and reality shows in your language.</p>
     </div>
 
-    <div class="movie-grid" id="movieGrid"></div>
+    <input type="text" id="mainSearch" placeholder="Search by title, director, or studio..." onkeyup="search()">
+
+    <div class="container">
+        <h2 id="sectionTitle">Trending Highlights</h2>
+        <div class="grid" id="mainGrid"></div>
+    </div>
+
+    <footer>
+        <p>© 2026 CinemaHub • Privacy Policy • Indian Media Portal</p>
+    </footer>
 
     <script>
-        let allData = [];
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
 
-        async function init() {
-            try {
-                const res = await fetch('data/movies.json');
-                allData = await res.json();
-                render(allData);
-            } catch (e) { document.getElementById('movieGrid').innerHTML = "Database syncing..."; }
+        let allData = [];
+        async function loadData() {
+            const res = await fetch('data/movies.json');
+            allData = await res.json();
+            render(allData);
         }
 
         function render(data) {
-            const grid = document.getElementById('movieGrid');
+            const grid = document.getElementById('mainGrid');
             grid.innerHTML = data.map(m => `
-                <div class="movie-card" onclick="location.href='movie.html?id=${m.id}'">
+                <div class="m-card" onclick="location.href='movie.html?id=${m.id}'">
                     <img src="${m.image || 'https://via.placeholder.com/300x450'}" alt="${m.title}">
-                    <div class="info">
-                        <div class="rating-badge">★ ${m.imdbRating}</div>
-                        <span class="tag">${m.category}</span>
+                    <div class="m-info">
+                        <span class="m-tag">${m.category}</span>
                         <h3>${m.title}</h3>
-                        <p style="font-size:12px; color:#555;">${m.genre}</p>
+                        <span style="color: #94a3b8; font-size: 13px;">${m.year} • ★ ${m.imdbRating}</span>
                     </div>
                 </div>
             `).join('');
         }
 
-        function filterData(category = '', btn = null) {
-            if(btn) {
-                document.querySelectorAll('.nav-filters button').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-            }
-            const search = document.getElementById('searchInput').value.toLowerCase();
-            const filtered = allData.filter(m => {
-                const matchesSearch = m.title.toLowerCase().includes(search) || (m.actors && m.actors.toLowerCase().includes(search));
-                const matchesCat = category === 'All' || category === '' || m.category === category;
-                return matchesSearch && matchesCat;
-            });
+        function filterTab(type) {
+            const filtered = type === 'All' ? allData : allData.filter(m => m.category === type);
+            document.getElementById('sectionTitle').innerText = type + "s";
             render(filtered);
         }
 
-        window.onload = init;
+        function search() {
+            const val = document.getElementById('mainSearch').value.toLowerCase();
+            const filtered = allData.filter(m => m.title.toLowerCase().includes(val) || m.director.toLowerCase().includes(val));
+            render(filtered);
+        }
+
+        window.onload = loadData;
     </script>
 </body>
 </html>
