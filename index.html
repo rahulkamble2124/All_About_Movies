@@ -3,129 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CinemaHub | Global Movie Database</title>
+    <title>CinemaHub | Home</title>
     <style>
-        :root {
-            --primary: #e50914;
-            --bg: #141414;
-            --card-bg: #2f2f2f;
-            --text: #ffffff;
+        :root { --primary: #e50914; --bg: #111; --card: #222; --text: #fff; }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        header { text-align: center; padding: 40px 0; }
+        .nav-filters { display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap; }
+        .nav-filters button { 
+            background: var(--card); color: white; border: 1px solid #444; padding: 10px 20px; 
+            border-radius: 20px; cursor: pointer; transition: 0.3s;
         }
-        body.light-mode {
-            --bg: #f4f4f4;
-            --card-bg: #ffffff;
-            --text: #141414;
+        .nav-filters button:hover { border-color: var(--primary); color: var(--primary); }
+        #searchInput { 
+            display: block; width: 80%; max-width: 600px; margin: 0 auto 40px; 
+            padding: 15px; border-radius: 30px; border: none; background: var(--card); color: white;
         }
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: var(--bg);
-            color: var(--text);
-            margin: 0;
-            padding: 20px;
-            transition: 0.3s;
+        .movie-grid { 
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+            gap: 25px; max-width: 1200px; margin: 0 auto; 
         }
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            max-width: 1200px;
-            margin: 0 auto 30px auto;
+        .movie-card { 
+            background: var(--card); border-radius: 12px; overflow: hidden; 
+            transition: 0.3s; cursor: pointer; position: relative;
         }
-        #searchInput {
-            display: block;
-            width: 100%;
-            max-width: 500px;
-            margin: 0 auto 40px auto;
-            padding: 15px;
-            border-radius: 25px;
-            border: 2px solid #444;
-            background: var(--card-bg);
-            color: var(--text);
-        }
-        .movie-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 25px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .movie-card {
-            background: var(--card-bg);
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-        }
-        .movie-card img {
-            width: 100%;
-            height: 300px;
-            object-fit: cover;
-        }
-        .movie-info { padding: 15px; }
-        .movie-info h3 { margin: 0 0 10px 0; color: var(--primary); }
-        .btn {
-            display: block;
-            text-align: center;
-            background: var(--primary);
-            color: white;
-            padding: 10px;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
+        .movie-card:hover { transform: scale(1.05); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
+        .movie-card img { width: 100%; height: 300px; object-fit: cover; }
+        .info { padding: 15px; }
+        .info h3 { margin: 0; font-size: 16px; color: var(--primary); }
+        .tag { font-size: 12px; color: #888; text-transform: uppercase; }
     </style>
 </head>
 <body>
 
     <header>
-        <h1 style="color: var(--primary);">CINEMA HUB</h1>
-        <button onclick="document.body.classList.toggle('light-mode')" style="padding: 10px; border-radius: 5px; cursor: pointer;">🌓 Mode</button>
+        <h1 style="color: var(--primary); letter-spacing: 4px;">CINEMA HUB</h1>
+        <p>Your Ultimate Movie & TV Database</p>
     </header>
 
-    <input type="text" id="searchInput" placeholder="Search movies..." onkeyup="filterMovies()">
+    <input type="text" id="searchInput" placeholder="Search by title, actor, or director..." onkeyup="filterData()">
 
-    <div class="movie-grid" id="movieGrid">
-        <p style="text-align: center; width: 100%;">Connecting to database...</p>
+    <div class="nav-filters">
+        <button onclick="filterData('All')">All</button>
+        <button onclick="filterData('Marvel Studios')">Marvel</button>
+        <button onclick="filterData('Bollywood')">Bollywood</button>
+        <button onclick="filterData('Action')">Action</button>
+        <button onclick="filterData('DC Universe')">DC Universe</button>
     </div>
 
-    <script>
-        let allMovies = [];
+    <div class="movie-grid" id="movieGrid"></div>
 
-        async function loadData() {
-            const grid = document.getElementById('movieGrid');
+    <script>
+        let allData = [];
+
+        async function init() {
             try {
-                // Using a direct path to your JSON file
-                const response = await fetch('data/movies.json');
-                if (!response.ok) throw new Error("Could not find movies.json");
-                
-                allMovies = await response.json();
-                display(allMovies);
-            } catch (err) {
-                grid.innerHTML = `<p style="text-align:center; width:100%;">Error: ${err.message}. <br> Make sure 'data/movies.json' exists and is not empty!</p>`;
-            }
+                const res = await fetch('data/movies.json');
+                allData = await res.json();
+                render(allData);
+            } catch (e) { document.getElementById('movieGrid').innerHTML = "Loading database..."; }
         }
 
-        function display(movies) {
+        function render(data) {
             const grid = document.getElementById('movieGrid');
-            grid.innerHTML = movies.map(m => `
-                <div class="movie-card">
-                    <img src="${m.image && m.image !== 'N/A' ? m.image : 'https://via.placeholder.com/300x450'}" alt="${m.title}">
-                    <div class="movie-info">
+            grid.innerHTML = data.map(m => `
+                <div class="movie-card" onclick="location.href='movie.html?id=${m.id}'">
+                    <img src="${m.image || 'https://via.placeholder.com/300x450'}" alt="${m.title}">
+                    <div class="info">
+                        <span class="tag">${m.category}</span>
                         <h3>${m.title}</h3>
-                        <p style="font-size: 14px; color: #888;">${m.category}</p>
-                        <a href="${m.link}" target="_blank" class="btn">View Info</a>
+                        <p style="font-size:12px; color:#666;">${m.year}</p>
                     </div>
                 </div>
             `).join('');
         }
 
-        function filterMovies() {
-            const val = document.getElementById('searchInput').value.toLowerCase();
-            const filtered = allMovies.filter(m => m.title.toLowerCase().includes(val));
-            display(filtered);
+        function filterData(category = '') {
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allData.filter(m => {
+                const matchesSearch = m.title.toLowerCase().includes(search) || 
+                                    m.director.toLowerCase().includes(search) ||
+                                    m.actors.toLowerCase().includes(search);
+                const matchesCat = category === 'All' || category === '' || m.category === category;
+                return matchesSearch && matchesCat;
+            });
+            render(filtered);
         }
 
-        // Run when page loads
-        window.onload = loadData;
+        window.onload = init;
     </script>
 </body>
 </html>
