@@ -5,67 +5,56 @@ import time
 
 def get_data():
     movie_list = []
-    omdb_key = '52d4ec2e' # <--- DOUBLE CHECK THIS KEY
+    omdb_key = 'YOUR_OMDB_KEY_HERE' # <--- ENTER YOUR KEY
     
-    # 1. TV SHOWS (Reliable TVMaze API)
-    print("Step 1: Fetching TV Shows...")
-    popular_shows = ["Breaking Bad", "Stranger Things", "Dark", "The Boys", "Sacred Games", "Mirzapur", "Money Heist", "The Mandalorian"]
-    for show_name in popular_shows:
-        try:
-            res = requests.get(f"https://api.tvmaze.com/singlesearch/shows?q={show_name}")
-            if res.status_code == 200:
-                s = res.json()
-                movie_list.append({
-                    "title": s.get('name'),
-                    "summary": f"TV Series | Rating: {s.get('rating', {}).get('average', 'N/A')}",
-                    "link": s.get('url'),
-                    "category": "TV Show",
-                    "image": s.get('image', {}).get('medium', '') if s.get('image') else ""
-                })
-        except: continue
+    # Categories to search for to fill the "Studios" and "Genres" headings
+    search_queries = [
+        {"q": "Marvel", "cat": "Marvel Studios"},
+        {"q": "Avengers", "cat": "Marvel Studios"},
+        {"q": "Batman", "cat": "DC Universe"},
+        {"q": "Action", "cat": "Action"},
+        {"q": "Horror", "cat": "Horror"},
+        {"q": "Bollywood", "cat": "Bollywood"},
+        {"q": "Christopher Nolan", "cat": "Director's Cut"},
+    ]
 
-    # 2. MOVIES (OMDb Search - Multiple Keywords)
-    print("Step 2: Fetching Movies from OMDb...")
-    # We use very common words to ensure we get 100+ results
-    keywords = ["Marvel", "Avengers", "Batman", "Spider", "Star Wars", "Action", "Bollywood", "2025", "2024", "Love"]
-    
-    for word in keywords:
+    print("🚀 Starting Mega-Collection...")
+
+    for item in search_queries:
         try:
-            # We add &page=1 to be specific
-            search_url = f"http://www.omdbapi.com/?s={word}&type=movie&apikey={omdb_key}"
-            res = requests.get(search_url)
-            data = res.json()
+            url = f"http://www.omdbapi.com/?s={item['q']}&apikey={omdb_key}"
+            res = requests.get(url).json()
             
-            if data.get('Response') == 'True':
-                for m in data.get('Search', []):
-                    # Avoid duplicates
-                    if not any(item['title'] == m['Title'] for item in movie_list):
+            if res.get('Response') == 'True':
+                for short_m in res.get('Search', [])[:5]: # Get top 5 per category
+                    # Get FULL details for the separate movie page
+                    detail_url = f"http://www.omdbapi.com/?i={short_m['imdbID']}&apikey={omdb_key}"
+                    m = requests.get(detail_url).json()
+                    
+                    if m.get('Response') == 'True' and not any(x['id'] == m['imdbID'] for x in movie_list):
                         movie_list.append({
+                            "id": m['imdbID'],
                             "title": m['Title'],
-                            "summary": f"Movie | Released: {m['Year']}",
-                            "link": f"https://www.imdb.com/title/{m['imdbID']}/",
-                            "category": "Movie",
-                            "image": m['Poster'] if (m['Poster'] and m['Poster'] != "N/A") else ""
+                            "year": m['Year'],
+                            "director": m.get('Director', 'N/A'),
+                            "actors": m.get('Actors', 'N/A'),
+                            "genre": m.get('Genre', 'N/A'),
+                            "plot": m.get('Plot', 'No plot available.'),
+                            "category": item['cat'],
+                            "image": m['Poster'] if (m['Poster'] and m['Poster'] != "N/A") else "",
+                            # Create a clean YouTube search link
+                            "trailer_query": f"{m['Title']} {m['Year']} official trailer"
                         })
-            else:
-                print(f"OMDb couldn't find movies for: {word} - Error: {data.get('Error')}")
-            
-            time.sleep(0.1) # Small delay to stay safe
+            time.sleep(0.1)
         except Exception as e:
-            print(f"Error fetching {word}: {e}")
+            print(f"Error on {item['q']}: {e}")
 
-    # 3. EMERGENCY FALLBACK (If OMDb fails, you still see these)
-    if len(movie_list) < 10:
-        print("Emergency Fallback Triggered!")
-        movie_list.append({"title": "Inception", "summary": "A thief who steals corporate secrets...", "link": "#", "category": "Movie", "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"})
-        movie_list.append({"title": "RRR", "summary": "A fearless revolutionary and an officer...", "link": "#", "category": "Movie", "image": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctZDlhNC00MjgzLWI4NWUtYzI4ZTYyOTUzZGE2XkEyXkFqcGdeQXVyNTE0MzY3NjY@._V1_SX300.jpg"})
-
-    # Final Save
+    # Save to data folder
     os.makedirs('data', exist_ok=True)
     with open('data/movies.json', 'w') as f:
         json.dump(movie_list, f, indent=4)
     
-    print(f"SUCCESS: Total items collected: {len(movie_list)}")
+    print(f"✅ Success! {len(movie_list)} detailed movies saved.")
 
 if __name__ == "__main__":
     get_data()
