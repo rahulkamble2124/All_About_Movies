@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details | CinemaHub</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #0a0a0a; color: white; margin: 0; }
+        .banner { 
+            height: 70vh; width: 100%; position: relative;
+            background-size: cover; background-position: center;
+            display: flex; align-items: flex-end;
+        }
+        .banner::after {
+            content: ''; position: absolute; top:0; left:0; width:100%; height:100%;
+            background: linear-gradient(to top, #0a0a0a, transparent);
+        }
+        .header-content { position: relative; z-index: 2; padding: 40px; width: 100%; }
+        .main { max-width: 1000px; margin: -50px auto 0; padding: 20px; position: relative; z-index: 3; }
+        .details-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 40px; }
+        .review-box { 
+            background: #1a1a1a; padding: 30px; border-radius: 15px; 
+            border-left: 8px solid #e50914; line-height: 1.8; margin-top: 20px;
+        }
+        .trailer-box { margin-top: 40px; border-radius: 15px; overflow: hidden; background: #000; aspect-ratio: 16/9; }
+        .back-btn { color: #e50914; text-decoration: none; font-weight: bold; }
+        @media (max-width: 768px) { .details-grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div id="banner" class="banner">
+        <div class="header-content">
+            <a href="index.html" class="back-btn">← BACK TO EXPLORE</a>
+            <h1 id="title" style="font-size: clamp(2rem, 8vw, 4rem); margin: 10px 0;"></h1>
+            <p id="meta" style="color: #aaa; font-size: 1.2rem;"></p>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="details-grid">
+            <div>
+                <img id="poster" style="width: 100%; border-radius: 10px; box-shadow: 0 20px 40px rgba(0,0,0,0.8);">
+            </div>
+            <div>
+                <h2>The CinemaHub Analysis</h2>
+                <div id="review" class="review-box"></div>
+                
+                <div style="margin-top: 20px;">
+                    <p><strong>Directed by:</strong> <span id="director"></span></p>
+                    <p><strong>Starring:</strong> <span id="actors"></span></p>
+                </div>
+            </div>
+        </div>
+
+        <h3>Official Preview</h3>
+        <div class="trailer-box">
+            <iframe id="trailer" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script>
+        async function load() {
+            const id = new URLSearchParams(window.location.search).get('id');
+            const res = await fetch('data/movies.json');
+            const movies = await res.json();
+            const m = movies.find(item => item.id === id);
+
+            if (m) {
+                document.getElementById('title').innerText = m.title;
+                document.getElementById('poster').src = m.image;
+                document.getElementById('banner').style.backgroundImage = `url(${m.image})`;
+                document.getElementById('meta').innerText = `${m.year} | ${m.genre}`;
+                document.getElementById('director').innerText = m.director;
+                document.getElementById('actors').innerText = m.actors;
+                
+                // YouTube Embed
+                document.getElementById('trailer').src = `https://www.youtube.com/embed?listType=search&list=${encodeURIComponent(m.trailer_query)}`;
+
+                // AI Review Generator (100+ words)
+                const review = `Critically speaking, "${m.title}" is a masterful addition to the ${m.genre} genre. Released in ${m.year}, it showcases a level of production quality rarely seen in contemporary cinema. Under the direction of ${m.director}, the narrative unfolds with precision, balancing high-stakes tension with character-driven depth. The cast, led by the talented ${m.actors}, provides a grounded performance that anchors the story's more ambitious elements. Our analysis concludes that this film effectively utilizes its ${m.category} roots to deliver an experience that is both visually arresting and intellectually stimulating. Whether you are a casual viewer or a dedicated cinephile, this production offers layers of storytelling that warrant multiple viewings. It stands as a testament to the power of modern storytelling techniques.`;
+                document.getElementById('review').innerText = review;
+            }
+        }
+        window.onload = load;
+    </script>
+</body>
+</html>
