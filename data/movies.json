@@ -1,744 +1,457 @@
 [
     {
-        "title": "Breaking Bad",
-        "summary": "TV Series | Rating: 9.2",
-        "link": "https://www.tvmaze.com/shows/169/breaking-bad",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253519.jpg"
-    },
-    {
-        "title": "Stranger Things",
-        "summary": "TV Series | Rating: 8.4",
-        "link": "https://www.tvmaze.com/shows/2993/stranger-things",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/595/1489169.jpg"
-    },
-    {
-        "title": "Dark",
-        "summary": "TV Series | Rating: 8.2",
-        "link": "https://www.tvmaze.com/shows/17861/dark",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262352.jpg"
-    },
-    {
-        "title": "The Boys",
-        "summary": "TV Series | Rating: 8.3",
-        "link": "https://www.tvmaze.com/shows/15299/the-boys",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg"
-    },
-    {
-        "title": "Sacred Games",
-        "summary": "TV Series | Rating: 7.5",
-        "link": "https://www.tvmaze.com/shows/18197/sacred-games",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/204/511629.jpg"
-    },
-    {
-        "title": "Mirzapur",
-        "summary": "TV Series | Rating: 7.6",
-        "link": "https://www.tvmaze.com/shows/39868/mirzapur",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/523/1308189.jpg"
-    },
-    {
-        "title": "Money Heist: Korea - Joint Economic Area",
-        "summary": "TV Series | Rating: 6.5",
-        "link": "https://www.tvmaze.com/shows/59307/money-heist-korea-joint-economic-area",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1076004.jpg"
-    },
-    {
-        "title": "The Mandalorian",
-        "summary": "TV Series | Rating: 8.5",
-        "link": "https://www.tvmaze.com/shows/38963/the-mandalorian",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253498.jpg"
-    },
-    {
+        "id": "tt4154664",
         "title": "Captain Marvel",
-        "summary": "Movie | Released: 2019",
-        "link": "https://www.imdb.com/title/tt4154664/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2019",
+        "director": "Anna Boden, Ryan Fleck",
+        "actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "imdbRating": "6.7",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Captain Marvel 2019 official trailer"
     },
     {
+        "id": "tt10857164",
+        "title": "Ms. Marvel",
+        "year": "2022",
+        "director": "N/A",
+        "actors": "Iman Vellani, Matt Lintz, Zenobia Shroff",
+        "genre": "Action, Adventure, Comedy",
+        "plot": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+        "imdbRating": "6.2",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzlkNjBmOWUtOTgzZS00OWIzLThkNWEtZTg5MGY2ODAyYzZjXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Ms. Marvel 2022 official trailer"
+    },
+    {
+        "id": "tt16027014",
+        "title": "Marvel Zombies",
+        "year": "2025",
+        "director": "N/A",
+        "actors": "Iman Vellani, Todd Williams, David Boat",
+        "genre": "Animation, Action, Adventure",
+        "plot": "After the Avengers are overtaken by a zombie plague, a group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking their lives to save their world.",
+        "imdbRating": "7.0",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNkYjI3ZWUtN2MzMS00NDg5LWE5MmYtZGE4Zjc0OGVhODM4XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Marvel Zombies 2025 official trailer"
+    },
+    {
+        "id": "tt3067038",
         "title": "Marvel One-Shot: Agent Carter",
-        "summary": "Movie | Released: 2013",
-        "link": "https://www.imdb.com/title/tt3067038/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZDIwZTM4M2QtMWFhYy00N2VmLWFlMjItMzI3NjBjYTc0OTMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+        "year": "2013",
+        "director": "Louis D'Esposito",
+        "actors": "Hayley Atwell, Bradley Whitford, Dominic Cooper, Tim Trobec",
+        "genre": "Short, Action, Adventure, Sci-Fi",
+        "plot": "Frustrated at being marginalized at work, Peggy Carter goes on an unauthorized solo field mission.",
+        "imdbRating": "7.6",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDIwZTM4M2QtMWFhYy00N2VmLWFlMjItMzI3NjBjYTc0OTMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+        "trailer_query": "Marvel One-Shot: Agent Carter 2013 official trailer"
     },
     {
+        "id": "tt3438640",
         "title": "Marvel One-Shot: All Hail the King",
-        "summary": "Movie | Released: 2014",
-        "link": "https://www.imdb.com/title/tt3438640/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGFkMTZkMDQtNzM4Yy00YWEwLTkzOWEtZTMyNDRlNmJhYWJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+        "year": "2014",
+        "director": "Drew Pearce",
+        "actors": "Ben Kingsley, Scoot McNairy, Lester Speight, Sam Rockwell",
+        "genre": "Short, Action, Sci-Fi",
+        "plot": "A documentary filmmaker interviews the now-famous Trevor Slattery from behind bars.",
+        "imdbRating": "7.4",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGFkMTZkMDQtNzM4Yy00YWEwLTkzOWEtZTMyNDRlNmJhYWJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+        "trailer_query": "Marvel One-Shot: All Hail the King 2014 official trailer"
     },
     {
+        "id": "tt2247732",
         "title": "Marvel One-Shot: Item 47",
-        "summary": "Movie | Released: 2012",
-        "link": "https://www.imdb.com/title/tt2247732/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjNlMzAxNmQtOGEwZi00NTEyLWI0NWYtMTlhNmE2YTA3ZDVhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+        "year": "2012",
+        "director": "Louis D'Esposito",
+        "actors": "Lizzy Caplan, Jesse Bradford, Maximiliano Hern\u00e1ndez, Titus Welliver",
+        "genre": "Short, Action, Sci-Fi",
+        "plot": "SHIELD agent Sitwell is assigned to recover an abandoned Chitauri weapon being used by a young couple robbing a bank.",
+        "imdbRating": "6.7",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjNlMzAxNmQtOGEwZi00NTEyLWI0NWYtMTlhNmE2YTA3ZDVhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+        "trailer_query": "Marvel One-Shot: Item 47 2012 official trailer"
     },
     {
-        "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
-        "summary": "Movie | Released: 2011",
-        "link": "https://www.imdb.com/title/tt2011109/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYmVlYTg3N2QtMWM2OS00YWQyLWI2M2MtMDc0ZjBkZjk1MTY3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Marvel One-Shot: The Consultant",
-        "summary": "Movie | Released: 2011",
-        "link": "https://www.imdb.com/title/tt2011118/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNGE4YjU5MDAtYzYzMC00M2RlLTk0NDgtNDU1MjgyMGI0MjI3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Marvel Studios' Captain Marvel LIVE Red Carpet World Premiere",
-        "summary": "Movie | Released: 2019",
-        "link": "https://www.imdb.com/title/tt9908924/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjgzYjU2MDMtZWNjZC00MTM5LTk1ZWYtYzQxZjQ0YjI4OGFkXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Marvel Studios: Assembling a Universe",
-        "summary": "Movie | Released: 2014",
-        "link": "https://www.imdb.com/title/tt3591568/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOWEzNGFjNjYtZGQ4Mi00ODEyLTlkZDYtZjFhMjZjZTdiNWZiXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Pok\u00e9mon the Movie: Volcanion and the Mechanical Marvel",
-        "summary": "Movie | Released: 2016",
-        "link": "https://www.imdb.com/title/tt5889204/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTk0NzI2Y2YtOGVjYi00YTUwLWEwNmEtODk1YjlhYzQ0ZTY5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Marvel Rising: Secret Warriors",
-        "summary": "Movie | Released: 2018",
-        "link": "https://www.imdb.com/title/tt7728344/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMGFhZGQ0ZmItMGY1Yy00NjY1LTlmYzItODhhMWQ3OWFlZWViXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
+        "id": "tt0848228",
         "title": "The Avengers",
-        "summary": "Movie | Released: 2012",
-        "link": "https://www.imdb.com/title/tt0848228/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2012",
+        "director": "Joss Whedon",
+        "actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "genre": "Action, Sci-Fi",
+        "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "imdbRating": "8.0",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "The Avengers 2012 official trailer"
     },
     {
+        "id": "tt4154796",
         "title": "Avengers: Endgame",
-        "summary": "Movie | Released: 2019",
-        "link": "https://www.imdb.com/title/tt4154796/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+        "year": "2019",
+        "director": "Anthony Russo, Joe Russo",
+        "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "imdbRating": "8.4",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+        "trailer_query": "Avengers: Endgame 2019 official trailer"
     },
     {
+        "id": "tt4154756",
         "title": "Avengers: Infinity War",
-        "summary": "Movie | Released: 2018",
-        "link": "https://www.imdb.com/title/tt4154756/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+        "year": "2018",
+        "director": "Anthony Russo, Joe Russo",
+        "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "imdbRating": "8.4",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+        "trailer_query": "Avengers: Infinity War 2018 official trailer"
     },
     {
+        "id": "tt2395427",
         "title": "Avengers: Age of Ultron",
-        "summary": "Movie | Released: 2015",
-        "link": "https://www.imdb.com/title/tt2395427/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2015",
+        "director": "Joss Whedon",
+        "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        "imdbRating": "7.3",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Avengers: Age of Ultron 2015 official trailer"
     },
     {
-        "title": "Ultimate Avengers: The Movie",
-        "summary": "Movie | Released: 2006",
-        "link": "https://www.imdb.com/title/tt0491703/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+        "id": "tt0118661",
+        "title": "The Avengers",
+        "year": "1998",
+        "director": "Jeremiah S. Chechik",
+        "actors": "Ralph Fiennes, Uma Thurman, Sean Connery",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "Two British Agents team up to stop Sir August de Wynter from destroying the world with a weather-changing machine.",
+        "imdbRating": "3.8",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTA4ZmZlZWQtZDRlYS00ZWZhLTk0MzEtYjExMGIzMTBlZDNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "The Avengers 1998 official trailer"
     },
     {
-        "title": "Ultimate Avengers II",
-        "summary": "Movie | Released: 2006",
-        "link": "https://www.imdb.com/title/tt0803093/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        "id": "tt1626038",
+        "title": "The Avengers: Earth's Mightiest Heroes",
+        "year": "2010\u20132024",
+        "director": "N/A",
+        "actors": "Eric Loomis, Colleen O'Shaughnessey, Brian Bloom",
+        "genre": "Animation, Action, Adventure",
+        "plot": "After 74 villains break out of prison, Marvel's most powerful superheroes team up to capture all of them, and also to defend the Earth from widespread threats.",
+        "imdbRating": "8.3",
+        "category": "Marvel Studios",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NkYTNlMTQtZWVjNC00MTk4LTkzNGEtYjAyOTYxYWFjYTVkXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "The Avengers: Earth's Mightiest Heroes 2010\u20132024 official trailer"
     },
     {
-        "title": "Next Avengers: Heroes of Tomorrow",
-        "summary": "Movie | Released: 2008",
-        "link": "https://www.imdb.com/title/tt1259998/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NjExNjY4N15BMl5BanBnXkFtZTcwNTczODkwNQ@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Avengers Confidential: Black Widow & Punisher",
-        "summary": "Movie | Released: 2014",
-        "link": "https://www.imdb.com/title/tt3482378/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0Njk4MF5BMl5BanBnXkFtZTgwMTY0OTIyMTE@._V1_SX300.jpg"
-    },
-    {
-        "title": "Crippled Avengers",
-        "summary": "Movie | Released: 1978",
-        "link": "https://www.imdb.com/title/tt0077292/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYjU2ODU5NzMtMzQ2NC00MmI5LWI1NjMtNmRmMjMzOTMxNWZhXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
+        "id": "tt0372784",
         "title": "Batman Begins",
-        "summary": "Movie | Released: 2005",
-        "link": "https://www.imdb.com/title/tt0372784/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2005",
+        "director": "Christopher Nolan",
+        "actors": "Christian Bale, Michael Caine, Ken Watanabe",
+        "genre": "Action, Crime, Drama",
+        "plot": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+        "imdbRating": "8.2",
+        "category": "DC Universe",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Batman Begins 2005 official trailer"
     },
     {
+        "id": "tt1877830",
         "title": "The Batman",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt1877830/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2022",
+        "director": "Matt Reeves",
+        "actors": "Robert Pattinson, Zo\u00eb Kravitz, Jeffrey Wright",
+        "genre": "Action, Crime, Drama",
+        "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+        "imdbRating": "7.8",
+        "category": "DC Universe",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "The Batman 2022 official trailer"
     },
     {
+        "id": "tt2975590",
         "title": "Batman v Superman: Dawn of Justice",
-        "summary": "Movie | Released: 2016",
-        "link": "https://www.imdb.com/title/tt2975590/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2016",
+        "director": "Zack Snyder",
+        "actors": "Ben Affleck, Henry Cavill, Amy Adams",
+        "genre": "Action, Adventure, Sci-Fi",
+        "plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman\u00b4s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+        "imdbRating": "6.4",
+        "category": "DC Universe",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Batman v Superman: Dawn of Justice 2016 official trailer"
     },
     {
+        "id": "tt0096895",
         "title": "Batman",
-        "summary": "Movie | Released: 1989",
-        "link": "https://www.imdb.com/title/tt0096895/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "1989",
+        "director": "Tim Burton",
+        "actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "genre": "Action, Adventure",
+        "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "imdbRating": "7.5",
+        "category": "DC Universe",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Batman 1989 official trailer"
     },
     {
+        "id": "tt0103776",
         "title": "Batman Returns",
-        "summary": "Movie | Released: 1992",
-        "link": "https://www.imdb.com/title/tt0103776/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "1992",
+        "director": "Tim Burton",
+        "actors": "Michael Keaton, Danny DeVito, Michelle Pfeiffer",
+        "genre": "Action, Crime, Fantasy",
+        "plot": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+        "imdbRating": "7.1",
+        "category": "DC Universe",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Batman Returns 1992 official trailer"
     },
     {
-        "title": "Batman & Robin",
-        "summary": "Movie | Released: 1997",
-        "link": "https://www.imdb.com/title/tt0118688/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Batman Forever",
-        "summary": "Movie | Released: 1995",
-        "link": "https://www.imdb.com/title/tt0112462/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "The Lego Batman Movie",
-        "summary": "Movie | Released: 2017",
-        "link": "https://www.imdb.com/title/tt4116284/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg"
-    },
-    {
-        "title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
-        "summary": "Movie | Released: 2016",
-        "link": "https://www.imdb.com/title/tt18689424/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTRlNWQwM2ItNjkyZC00MGI3LThkYjktZmE5N2FlMzcyNTIyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man: No Way Home",
-        "summary": "Movie | Released: 2021",
-        "link": "https://www.imdb.com/title/tt10872600/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0145487/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man: Homecoming",
-        "summary": "Movie | Released: 2017",
-        "link": "https://www.imdb.com/title/tt2250912/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man 2",
-        "summary": "Movie | Released: 2004",
-        "link": "https://www.imdb.com/title/tt0316654/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man: Into the Spider-Verse",
-        "summary": "Movie | Released: 2018",
-        "link": "https://www.imdb.com/title/tt4633694/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
-    },
-    {
-        "title": "The Amazing Spider-Man",
-        "summary": "Movie | Released: 2012",
-        "link": "https://www.imdb.com/title/tt0948470/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man 3",
-        "summary": "Movie | Released: 2007",
-        "link": "https://www.imdb.com/title/tt0413300/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man: Far from Home",
-        "summary": "Movie | Released: 2019",
-        "link": "https://www.imdb.com/title/tt6320628/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "The Amazing Spider-Man 2",
-        "summary": "Movie | Released: 2014",
-        "link": "https://www.imdb.com/title/tt1872181/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg"
-    },
-    {
-        "title": "Spider-Man: Across the Spider-Verse",
-        "summary": "Movie | Released: 2023",
-        "link": "https://www.imdb.com/title/tt9362722/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode IV - A New Hope",
-        "summary": "Movie | Released: 1977",
-        "link": "https://www.imdb.com/title/tt0076759/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode V - The Empire Strikes Back",
-        "summary": "Movie | Released: 1980",
-        "link": "https://www.imdb.com/title/tt0080684/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode VI - Return of the Jedi",
-        "summary": "Movie | Released: 1983",
-        "link": "https://www.imdb.com/title/tt0086190/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode VII - The Force Awakens",
-        "summary": "Movie | Released: 2015",
-        "link": "https://www.imdb.com/title/tt2488496/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode I - The Phantom Menace",
-        "summary": "Movie | Released: 1999",
-        "link": "https://www.imdb.com/title/tt0120915/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode III - Revenge of the Sith",
-        "summary": "Movie | Released: 2005",
-        "link": "https://www.imdb.com/title/tt0121766/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode II - Attack of the Clones",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0121765/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Rogue One: A Star Wars Story",
-        "summary": "Movie | Released: 2016",
-        "link": "https://www.imdb.com/title/tt3748528/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode VIII - The Last Jedi",
-        "summary": "Movie | Released: 2017",
-        "link": "https://www.imdb.com/title/tt2527336/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg"
-    },
-    {
-        "title": "Star Wars: Episode IX - The Rise of Skywalker",
-        "summary": "Movie | Released: 2019",
-        "link": "https://www.imdb.com/title/tt2527338/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
+        "id": "tt0107362",
         "title": "Last Action Hero",
-        "summary": "Movie | Released: 1993",
-        "link": "https://www.imdb.com/title/tt0107362/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "1993",
+        "director": "John McTiernan",
+        "actors": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
+        "genre": "Action, Adventure, Comedy",
+        "plot": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
+        "imdbRating": "6.5",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Last Action Hero 1993 official trailer"
     },
     {
+        "id": "tt21191806",
         "title": "Back in Action",
-        "summary": "Movie | Released: 2025",
-        "link": "https://www.imdb.com/title/tt21191806/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2025",
+        "director": "Seth Gordon",
+        "actors": "Jamie Foxx, Cameron Diaz, McKenna Roberts",
+        "genre": "Action, Comedy",
+        "plot": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.",
+        "imdbRating": "5.9",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Back in Action 2025 official trailer"
     },
     {
+        "id": "tt0318155",
         "title": "Looney Tunes: Back in Action",
-        "summary": "Movie | Released: 2003",
-        "link": "https://www.imdb.com/title/tt0318155/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNDU2NmU2YzktNWFlMC00MDk1LWFhZjQtYjUxZThiMjZhNjQ2XkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2003",
+        "director": "Joe Dante",
+        "actors": "Brendan Fraser, Jenna Elfman, Steve Martin",
+        "genre": "Animation, Adventure, Comedy",
+        "plot": "Bugs Bunny and Daffy Duck team up with an aspiring stuntman and a studio executive in order to rescue the stuntman's missing father and locate a mythical diamond before the head of a major conglomerate uses it for his own wicked d...",
+        "imdbRating": "5.8",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDU2NmU2YzktNWFlMC00MDk1LWFhZjQtYjUxZThiMjZhNjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Looney Tunes: Back in Action 2003 official trailer"
     },
     {
+        "id": "tt15600222",
         "title": "An Action Hero",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt15600222/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2022",
+        "director": "Anirudh Iyer",
+        "actors": "Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar",
+        "genre": "Action, Comedy, Crime",
+        "plot": "A murder accusation turns a movie star's own life into an eccentric action thriller as he flees the country, with a vengeful politician hot on his heels.",
+        "imdbRating": "7.0",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "An Action Hero 2022 official trailer"
     },
     {
+        "id": "tt0120633",
         "title": "A Civil Action",
-        "summary": "Movie | Released: 1998",
-        "link": "https://www.imdb.com/title/tt0120633/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMDgyNDNkYTMtYmU0NC00YjliLWFhNjgtMmFhOTQ1MmE4NzNmXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "1998",
+        "director": "Steven Zaillian",
+        "actors": "John Travolta, Robert Duvall, Tony Shalhoub",
+        "genre": "Biography, Drama",
+        "plot": "At the risk of bankrupting his firm and career, lawyer Jan Schlichtman takes on a case involving two companies responsible for causing children to be diagnosed with leukemia due to the town's contaminated water supply.",
+        "imdbRating": "6.6",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgyNDNkYTMtYmU0NC00YjliLWFhNjgtMmFhOTQ1MmE4NzNmXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "A Civil Action 1998 official trailer"
     },
     {
+        "id": "tt0087727",
         "title": "Missing in Action",
-        "summary": "Movie | Released: 1984",
-        "link": "https://www.imdb.com/title/tt0087727/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "1984",
+        "director": "Joseph Zito",
+        "actors": "Chuck Norris, M. Emmet Walsh, David Tress",
+        "genre": "Action, Adventure, Drama",
+        "plot": "Colonel Braddock launches a mission deep into the jungles of Vietnam to find the POW camp that he escaped from and free the Americans still held captive there.",
+        "imdbRating": "5.5",
+        "category": "Action",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Missing in Action 1984 official trailer"
     },
     {
-        "title": "Action Jackson",
-        "summary": "Movie | Released: 1988",
-        "link": "https://www.imdb.com/title/tt0094612/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMzY1N2NjMjYtM2U3OS00OTMzLTk4OGEtMWI1YjUwMWRjODQ1XkEyXkFqcGc@._V1_SX300.jpg"
+        "id": "tt13452100",
+        "title": "Fabulous Lives of Bollywood Wives",
+        "year": "2020\u2013",
+        "director": "N/A",
+        "actors": "Neelam Kothari, Seema Sajdeh, Maheep Kapoor",
+        "genre": "Documentary, Reality-TV, Romance",
+        "plot": "Cameras follow the banter and bonding between four fun-loving women from Bollywood's inner circle as they juggle professions, family, and friendship.",
+        "imdbRating": "4.2",
+        "category": "Bollywood",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDAxZDJkZDAtNTFjOC00N2U1LTk1NjEtZGQ1MjZlMTNhZTY4XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Fabulous Lives of Bollywood Wives 2020\u2013 official trailer"
     },
     {
-        "title": "Action Point",
-        "summary": "Movie | Released: 2018",
-        "link": "https://www.imdb.com/title/tt6495770/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTU5MTk1N15BMl5BanBnXkFtZTgwMzIzMzczNTM@._V1_SX300.jpg"
+        "id": "tt34683290",
+        "title": "The Ba***ds of Bollywood",
+        "year": "2025\u2013",
+        "director": "N/A",
+        "actors": "Bobby Deol, Lakshya, Raghav Juyal",
+        "genre": "Adventure, Comedy, Drama",
+        "plot": "An entertaining ride through the adventures of an ambitious outsider navigating the glitzy yet tricky world of Bollywood, with self-aware humor, cameos, and larger-than-life characters for a tongue-in-cheek take on Indian cinema.",
+        "imdbRating": "7.7",
+        "category": "Bollywood",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGJlYjliMGMtYTAxOC00YWU4LWE1NTktM2NhMDdmZTcxOTk2XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "The Ba***ds of Bollywood 2025\u2013 official trailer"
     },
     {
-        "title": "321 Action",
-        "summary": "Movie | Released: 2020",
-        "link": "https://www.imdb.com/title/tt13423846/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BODdlNmZiYmItYTkyZC00NDNhLWEzMDctZjJhMDNjZWJkNTRlXkEyXkFqcGc@._V1_SX300.jpg"
+        "id": "tt13282662",
+        "title": "Call My Agent Bollywood",
+        "year": "2021\u2013",
+        "director": "N/A",
+        "actors": "Rajat Kapoor, Aahana Kumra, Soni Razdan",
+        "genre": "Comedy, Drama",
+        "plot": "From pulling off casting coups to calming celebrity egos, the drama never stops for four Mumbai talent agents hustling to save their sinking company.",
+        "imdbRating": "5.3",
+        "category": "Bollywood",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmExODZkZGYtMTY3OC00MTNkLWIwNmYtNTU0M2EyYjZkZmU5XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Call My Agent Bollywood 2021\u2013 official trailer"
     },
     {
-        "title": "Missing in Action 2: The Beginning",
-        "summary": "Movie | Released: 1985",
-        "link": "https://www.imdb.com/title/tt0089604/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZjQwNjUxZjUtYmUxOS00YmRjLTljZTgtMTc0OTFlZDllZjM5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
+        "id": "tt0303785",
         "title": "Bollywood/Hollywood",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0303785/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTQ2NjAyZmUtNTFlYS00YTg2LWE1ZGUtYTEyNmFlM2Y4NTE1XkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2002",
+        "director": "Deepa Mehta",
+        "actors": "Rahul Khanna, Moushumi Chatterjee, Dina Pathak",
+        "genre": "Romance, Comedy, Drama",
+        "plot": "A wealthy East Indian man gives an apparently non-East Indian woman a crash course in his culture, so he can marry her with his family's approval.",
+        "imdbRating": "5.9",
+        "category": "Bollywood",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTQ2NjAyZmUtNTFlYS00YTg2LWE1ZGUtYTEyNmFlM2Y4NTE1XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Bollywood/Hollywood 2002 official trailer"
     },
     {
+        "id": "tt0296535",
         "title": "Bollywood Bound",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0296535/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMDY2MjdlYTUtM2RjZC00NTc0LWEwMjktMDgwMmQ0Y2I0MTE0XkEyXkFqcGc@._V1_SX300.jpg"
+        "year": "2002",
+        "director": "Nisha Pahuja",
+        "actors": "Neeru Bajwa, Ruby Bhatia, Vekeana Dhillon",
+        "genre": "Documentary",
+        "plot": "This feature length documentary tells the story of four Indo Canadians; Vikram Dhillon, Vekeana Dhillon, Ruby Bhatia and Neeru Bajwa, who head to Mumbai to find fame and fortune in the Bollywood film industry.",
+        "imdbRating": "6.1",
+        "category": "Bollywood",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDY2MjdlYTUtM2RjZC00NTc0LWEwMjktMDgwMmQ0Y2I0MTE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Bollywood Bound 2002 official trailer"
     },
     {
+        "id": "tt0297032",
         "title": "Bollywood im Alpenrausch",
-        "summary": "Movie | Released: 2000",
-        "link": "https://www.imdb.com/title/tt0297032/",
-        "category": "Movie",
-        "image": ""
+        "year": "2000",
+        "director": "Christian Frei",
+        "actors": "Peter Kner, Irina Sch\u00f6nen, Thomas Stuckenschmidt",
+        "genre": "Documentary",
+        "plot": "N/A",
+        "imdbRating": "6.6",
+        "category": "Bollywood",
+        "image": "",
+        "trailer_query": "Bollywood im Alpenrausch 2000 official trailer"
     },
     {
-        "title": "Sunset Bollywood",
-        "summary": "Movie | Released: 2005",
-        "link": "https://www.imdb.com/title/tt1475415/",
-        "category": "Movie",
-        "image": ""
+        "id": "tt1035445",
+        "title": "The Director's Notebook: The Cinematic Sleight of Hand of Christopher Nolan",
+        "year": "2007",
+        "director": "Mark Rance",
+        "actors": "Christopher Nolan, Hugh Jackman, Rebecca Hall, Christopher Priest",
+        "genre": "Documentary, Short",
+        "plot": "N/A",
+        "imdbRating": "6.9",
+        "category": "Director's Cut",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWZkYWYzMGUtYzdhZS00MGQwLWE1ODAtYzcwNzc2YmE3NzNkXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg",
+        "trailer_query": "The Director's Notebook: The Cinematic Sleight of Hand of Christopher Nolan 2007 official trailer"
     },
     {
-        "title": "Bollywood Remixed - Das indische Kino erobert den Westen",
-        "summary": "Movie | Released: 2004",
-        "link": "https://www.imdb.com/title/tt0772737/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMGY3MDllM2YtMmEwZS00NWFhLWIwOTUtZDEwMmUyM2ZlOGFmXkEyXkFqcGc@._V1_SX300.jpg"
+        "id": "tt0357402",
+        "title": "180\u00b0: Christopher Nolan Interviews Al Pacino",
+        "year": "2002",
+        "director": "Richard Ingber",
+        "actors": "Christopher Nolan, Al Pacino",
+        "genre": "Documentary, Short",
+        "plot": "Director Christopher Nolan conducts an interview with legendary actor Al Pacino. The title limits what is done here, since Pacino probably asks Nolan more questions than Nolan asks Pacino. ...",
+        "imdbRating": "7.6",
+        "category": "Director's Cut",
+        "image": "",
+        "trailer_query": "180\u00b0: Christopher Nolan Interviews Al Pacino 2002 official trailer"
     },
     {
-        "title": "Bollywood - Indiens klingendes Kino",
-        "summary": "Movie | Released: 2005",
-        "link": "https://www.imdb.com/title/tt1037020/",
-        "category": "Movie",
-        "image": ""
+        "id": "tt32204353",
+        "title": "Every Christopher Nolan Movie Ranked",
+        "year": "2024",
+        "director": "James Phyrillas",
+        "actors": "James Phyrillas",
+        "genre": "News",
+        "plot": "Schaff goes down the rabbit hole of Christopher Nolan's filmography and discovers a dark secret",
+        "imdbRating": "N/A",
+        "category": "Director's Cut",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzBmYWEzMTYtMGZkMy00OTFlLTg4ZTgtNGJkNGE2ZDA2YTA0XkEyXkFqcGc@._V1_SX300.jpg",
+        "trailer_query": "Every Christopher Nolan Movie Ranked 2024 official trailer"
     },
     {
-        "title": "Bollywood for Beginners",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0328903/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMDJkYTc3NzQtODViZi00MzY0LTlkYmMtMWJhZjdjOGQ2Zjc4XkEyXkFqcGdeQXVyMTE0NDMyMzQ@._V1_SX300.jpg"
+        "id": "tt3138288",
+        "title": "Christopher Nolan & Richard Donner: A Conversation",
+        "year": "2013",
+        "director": "N/A",
+        "actors": "Richard Donner, Christopher Nolan",
+        "genre": "Documentary, Short",
+        "plot": "N/A",
+        "imdbRating": "8.3",
+        "category": "Director's Cut",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDY4YzNkOWUtN2U5NC00MTJiLWI3MmQtYmU4YjA5NzQ4MjU3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE0OTE2MDY@._V1_SX300.jpg",
+        "trailer_query": "Christopher Nolan & Richard Donner: A Conversation 2013 official trailer"
     },
     {
-        "title": "Sabrina's Bollywood",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0342949/",
-        "category": "Movie",
-        "image": ""
+        "id": "tt5297444",
+        "title": "Creating Interstellar: A Discussion with Christopher Nolan, Anne Hathaway, Mathew McConaughey, and Jessica Chastain",
+        "year": "2015",
+        "director": "N/A",
+        "actors": "Jessica Chastain, Anne Hathaway, Matthew McConaughey, Christopher Nolan",
+        "genre": "Short",
+        "plot": "A Discussion with Christopher Nolan, Anne Hathaway, Mathew McConaughey, and Jessica Chastain",
+        "imdbRating": "N/A",
+        "category": "Director's Cut",
+        "image": "",
+        "trailer_query": "Creating Interstellar: A Discussion with Christopher Nolan, Anne Hathaway, Mathew McConaughey, and Jessica Chastain 2015 official trailer"
     },
     {
-        "title": "Bollywood Queen",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0321494/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMWQ2ZDUwNDMtMmI1Ny00ZjlmLTkwN2ItNTdhZWYyMDE4ZmVlXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Bollywood Calling",
-        "summary": "Movie | Released: 2001",
-        "link": "https://www.imdb.com/title/tt0303733/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMWU0MDZlMDctYzRiNy00YWM4LWE2ODktZmNhZTkyZDE5MGQ2XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "2025 - The World enslaved by a Virus",
-        "summary": "Movie | Released: 2021",
-        "link": "https://www.imdb.com/title/tt13788842/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYTAxMWJjNWEtODNiMy00NDE2LThmOTItNTQ4ZmJmYTMwMGE2XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Airplane 2025",
-        "summary": "Movie | Released: 2025",
-        "link": "https://www.imdb.com/title/tt34956433/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjExYjQ0MGItZmFhOC00N2YxLWEzYzktZTM2OTg1ODk0ZTgxXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Battlefield 2025",
-        "summary": "Movie | Released: 2020",
-        "link": "https://www.imdb.com/title/tt8134980/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZWNlNjU5OWUtOWRhYi00OTU0LWI2ODMtOTYyMzhhNGI2M2I3XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Lockdown 2025",
-        "summary": "Movie | Released: 2021",
-        "link": "https://www.imdb.com/title/tt14096564/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTk3M2UwYzYtM2UyYS00MmQzLTg2NDQtNjRlOTU3MTQyMTA5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "A Date in 2025",
-        "summary": "Movie | Released: 2017",
-        "link": "https://www.imdb.com/title/tt6090846/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOWEzYTljZjEtNGUwYy00NTJmLWExODktMzllNzdhZTM4YmVmXkEyXkFqcGdeQXVyMjA2Mzk1MTE@._V1_SX300.jpg"
-    },
-    {
-        "title": "2025 Armageddon",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt24057390/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTA3ZWQ3NDYtMWY1Zi00NTA5LWI5ZmQtYWFhMWRiNTg3MjcxXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "2025: Blood, White & Blue",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt9893130/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNjlmMWIwMzYtNDgwMi00Mzg1LWE0YjItODJkZTc1MTRhMTRhXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "2025",
-        "summary": "Movie | Released: 2015",
-        "link": "https://www.imdb.com/title/tt3963348/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MTY3MTQ4Ml5BMl5BanBnXkFtZTgwOTI3MjM5NDE@._V1_SX300.jpg"
-    },
-    {
-        "title": "Kudukku 2025",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt14481696/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYTA0YzI3M2ItNzA3My00M2MxLWI3ZjgtMzZjYjFhNDU5NzRkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg"
-    },
-    {
-        "title": "The Game Awards 2025",
-        "summary": "Movie | Released: 2025",
-        "link": "https://www.imdb.com/title/tt38493874/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYzExNTIxOGYtMTM2Zi00MWJiLWJiYWQtMGQzZWQyNWQ5ZTk2XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Red Sea Film Fest 2024",
-        "summary": "Movie | Released: 2025",
-        "link": "https://www.imdb.com/title/tt39144540/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZjU4YTUwNjUtOTBlMC00ZGZmLWJlNjEtYWE0MzczMGIyMjJlXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Torching 2024: A Roast of the Year",
-        "summary": "Movie | Released: 2024",
-        "link": "https://www.imdb.com/title/tt34909701/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmQ2YzQtYjZlYS00MWJkLWE3ODctMGU0ZmMyZmVhNDEzXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Trump 2024: The World After Trump",
-        "summary": "Movie | Released: 2020",
-        "link": "https://www.imdb.com/title/tt12787726/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYTYxYzZhNjQtY2FmZi00OGUzLTlhZjgtYjcxNjVhZDkxMjA5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Vogue Film Ekim 2024: Kerem B\u00fcrsin ve Devrim \u00d6zkan",
-        "summary": "Movie | Released: 2024",
-        "link": "https://www.imdb.com/title/tt36642319/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BOWI1MTJlMzItZjM4Mi00OWQxLThhYmMtOTdjYTk1OTFlNDkxXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "The Purge: 2024",
-        "summary": "Movie | Released: 2017",
-        "link": "https://www.imdb.com/title/tt7553974/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGRjOWUyM2EtNTMyNS00NTYyLTliMDctMDcwY2UxNGFmOTBjXkEyXkFqcGdeQXVyNjE0NzI3MTg@._V1_SX300.jpg"
-    },
-    {
-        "title": "Dimension 1991-2024",
-        "summary": "Movie | Released: 2010",
-        "link": "https://www.imdb.com/title/tt1888523/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMDMwNDRmMTktY2NlZS00NDAzLWJjMTEtNTcyY2YyZTY0NWFlXkEyXkFqcGdeQXVyNjk0NTY0ODA@._V1_SX300.jpg"
-    },
-    {
-        "title": "2024 MTV Video Music Awards",
-        "summary": "Movie | Released: 2024",
-        "link": "https://www.imdb.com/title/tt32207059/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNzFiZDU1MjYtMjJlMy00NmExLWJlOGQtZWY3OTc4MDFmZmYyXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "2024",
-        "summary": "Movie | Released: 2021",
-        "link": "https://www.imdb.com/title/tt16141116/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGUzNDA3NGUtNDIxMC00ZmM0LTk3NDctNmU3MDUzMGJhMzhhXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Episodes: Ukraine at the World Cup (2024)",
-        "summary": "Movie | Released: 2024",
-        "link": "https://www.imdb.com/title/tt32566611/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZDFmMmE4NmYtOGFmOC00ZThkLTgxODgtMTljMzdjNGUzOWYzXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "2024 EE BAFTA Film Awards",
-        "summary": "Movie | Released: 2024",
-        "link": "https://www.imdb.com/title/tt31390646/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTNmMTM2ZTQtMDVkMC00NzYxLWEzZWMtZjAwMTAwMmZiMjU5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Crazy, Stupid, Love.",
-        "summary": "Movie | Released: 2011",
-        "link": "https://www.imdb.com/title/tt1570728/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Love Actually",
-        "summary": "Movie | Released: 2003",
-        "link": "https://www.imdb.com/title/tt0314331/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "summary": "Movie | Released: 1964",
-        "link": "https://www.imdb.com/title/tt0057012/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Thor: Love and Thunder",
-        "summary": "Movie | Released: 2022",
-        "link": "https://www.imdb.com/title/tt10648342/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "Love & Other Drugs",
-        "summary": "Movie | Released: 2010",
-        "link": "https://www.imdb.com/title/tt0758752/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Shakespeare in Love",
-        "summary": "Movie | Released: 1998",
-        "link": "https://www.imdb.com/title/tt0138097/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "I Love You, Man",
-        "summary": "Movie | Released: 2009",
-        "link": "https://www.imdb.com/title/tt1155056/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg"
-    },
-    {
-        "title": "P.S. I Love You",
-        "summary": "Movie | Released: 2007",
-        "link": "https://www.imdb.com/title/tt0431308/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTg2MDg4MjI5NV5BMl5BanBnXkFtZTcwMzQ0MDczMw@@._V1_SX300.jpg"
-    },
-    {
-        "title": "Punch-Drunk Love",
-        "summary": "Movie | Released: 2002",
-        "link": "https://www.imdb.com/title/tt0272338/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    {
-        "title": "In the Mood for Love",
-        "summary": "Movie | Released: 2000",
-        "link": "https://www.imdb.com/title/tt0118694/",
-        "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg"
+        "id": "tt5328982",
+        "title": "Memento: Interview with Christopher Nolan",
+        "year": "2004",
+        "director": "N/A",
+        "actors": "Elvis Mitchell, Christopher Nolan",
+        "genre": "Documentary, Short",
+        "plot": "In this IFC Interview with Christopher Nolan we get a chat between Nolan and film critic Elvis Mitchell. Nolan discusses concepts related to memory, story/character topics, influences and ...",
+        "imdbRating": "N/A",
+        "category": "Director's Cut",
+        "image": "",
+        "trailer_query": "Memento: Interview with Christopher Nolan 2004 official trailer"
     }
 ]
