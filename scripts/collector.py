@@ -5,7 +5,7 @@ import time
 
 def get_data():
     movie_list = []
-    omdb_key = 'YOUR_OMDB_KEY_HERE' # <--- ENTER YOUR KEY HERE
+    omdb_key = '52d4ec2e' # <--- ENTER YOUR KEY HERE
     
     # We use these queries to fill your "By Studio" and "By Genre" sections
     search_queries = [
