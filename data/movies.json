@@ -1,7 +1,7 @@
 [
     {
-        "id": "3564753",
-        "title": "Episode 12",
+        "id": "3452687",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567637",
-        "title": "Episode 59",
+        "id": "3567638",
+        "title": "Episode 60",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567650",
-        "title": "Their Thoughts",
+        "id": "3576825",
+        "title": "Episode 58",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3571126",
-        "title": "Episode 57",
+        "id": "3578086",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578084",
-        "title": "Episode 7",
+        "id": "3578087",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578085",
-        "title": "Episode 8",
+        "id": "3574572",
+        "title": "Jim Parsons, Alana Haim, Chris Fleming",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578520",
-        "title": "Episode 1",
+        "id": "3565882",
+        "title": "Episode 84",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,32 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578521",
-        "title": "Episode 2",
+        "id": "3575415",
+        "title": "\u0412\u044b\u043f\u0443\u0441\u043a 1303. \u0417\u0430\u043c\u0443\u0436\u043d\u044f\u044f \u0441\u043e\u0441\u0435\u0434\u043a\u0430 \u0440\u043e\u0434\u0438\u043b\u0430 \u043e\u0442 \u0436\u0435\u043d\u0430\u0442\u043e\u0433\u043e \u0441\u043e\u0441\u0435\u0434\u0430?",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548394.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578522",
-        "title": "Episode 3",
+        "id": "3559241",
+        "title": "\u0412\u044b\u043f\u0443\u0441\u043a 4. \u041d\u0430\u0442\u0430\u043b\u044c\u044f, \u0434. \u041a\u0430\u043f\u044b\u0440\u0435\u0432\u0449\u0438\u043d\u0430",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548399.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3578523",
-        "title": "Episode 4",
+        "id": "3572653",
+        "title": "25/03/2026",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
