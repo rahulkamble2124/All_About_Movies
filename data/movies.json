@@ -1,19 +1,7 @@
 [
     {
-        "id": "3544982",
-        "title": "Folgefonna \u2013 V\u00e6ret bestemmer",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/615/1539180.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3562037",
-        "title": "Episode 15",
+        "id": "3556542",
+        "title": "Avsnitt 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3575952",
-        "title": "TBA",
+        "id": "3567641",
+        "title": "Episode 63",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3580747",
-        "title": "Episode 9",
+        "id": "3573055",
+        "title": "Episode 139",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3580748",
-        "title": "Episode 10",
+        "id": "3580749",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581761",
-        "title": "Episode 9",
+        "id": "3581763",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581762",
-        "title": "Episode 10",
+        "id": "3581764",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,38 +72,50 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3565180",
-        "title": "Chapter 6",
+        "id": "3565887",
+        "title": "Episode 89",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548614.jpg",
+        "image": "",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3565181",
-        "title": "Chapter 7",
+        "id": "3575417",
+        "title": "Episode 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548615.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548605.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3565182",
-        "title": "Chapter 8",
+        "id": "3575418",
+        "title": "Episode 2",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548616.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548606.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3575420",
+        "title": "Episode 3",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548607.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
