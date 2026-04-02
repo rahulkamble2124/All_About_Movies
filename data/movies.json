@@ -1,7 +1,7 @@
 [
     {
-        "id": "3556542",
-        "title": "Avsnitt 6",
+        "id": "3564755",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567641",
-        "title": "Episode 63",
+        "id": "3567642",
+        "title": "Episode 64",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3573055",
-        "title": "Episode 139",
+        "id": "3567651",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3580749",
-        "title": "Episode 11",
+        "id": "3576829",
+        "title": "Episode 62",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,19 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581763",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3581764",
+        "id": "3580750",
         "title": "Episode 12",
         "year": "2026",
         "director": "Various",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3565887",
-        "title": "Episode 89",
+        "id": "3581765",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,38 +72,50 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3575417",
-        "title": "Episode 1",
+        "id": "3565888",
+        "title": "Episode 90",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548605.jpg",
+        "image": "",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3575418",
-        "title": "Episode 2",
+        "id": "3580506",
+        "title": "31/03/2026",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548606.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548659.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3575420",
-        "title": "Episode 3",
+        "id": "3580479",
+        "title": "\u0412\u044b\u043f\u0443\u0441\u043a 1306. \u0420\u0430\u0437\u043b\u0443\u0447\u0438\u043b\u0438 8 \u0434\u0435\u0442\u0435\u0439?",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1548607.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550069.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3581539",
+        "title": "Tue 31st Mar 2026",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/619/1549105.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
