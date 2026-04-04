@@ -1,54 +1,18 @@
 [
     {
-        "id": "3452688",
-        "title": "Episode 21",
+        "id": "3540659",
+        "title": "Pokerfjes",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550402.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567643",
-        "title": "Episode 65",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3580751",
-        "title": "Episode 13",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3580752",
-        "title": "Episode 14",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3580753",
+        "id": "3564756",
         "title": "Episode 15",
         "year": "2026",
         "director": "Various",
@@ -60,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581766",
-        "title": "Episode 14",
+        "id": "3567644",
+        "title": "Episode 66",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583577",
-        "title": "Episode 1",
+        "id": "3581767",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583578",
-        "title": "Episode 2",
+        "id": "3583582",
+        "title": "Episode 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583579",
-        "title": "Episode 3",
+        "id": "3583583",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583580",
-        "title": "Episode 4",
+        "id": "3583763",
+        "title": "Episode 64",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3585076",
+        "title": "Ghosts \u2018n Chainsaws",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3580395",
+        "title": "\u0412\u044b\u043f\u0443\u0441\u043a 19. \u041a\u0443\u043b\u0438\u043d\u0430\u0440\u043d\u044b\u0435 \u0436\u0435\u043d\u044b",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550648.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3565890",
+        "title": "Episode 92",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
