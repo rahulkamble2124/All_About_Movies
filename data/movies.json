@@ -1,7 +1,31 @@
 [
     {
-        "id": "3546272",
-        "title": "Episode 9",
+        "id": "3540660",
+        "title": "Stormvarsel",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550403.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3544983",
+        "title": "Jotunheimen \u2013 I fjellenes favn",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/615/1539181.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3573056",
+        "title": "Episode 140",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567217",
-        "title": "Episode 14",
+        "id": "3573362",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3567645",
-        "title": "Episode 67",
+        "id": "3583586",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581768",
-        "title": "Episode 16",
+        "id": "3583587",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581769",
-        "title": "Episode 17",
+        "id": "3583765",
+        "title": "Episode 66",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,7 +84,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581770",
+        "id": "3584608",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -72,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581771",
+        "id": "3584609",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -84,32 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3581772",
-        "title": "Episode 20",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3581773",
-        "title": "Episode 21",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3581774",
-        "title": "Episode 22",
+        "id": "3586646",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
