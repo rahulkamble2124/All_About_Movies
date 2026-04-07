@@ -1,31 +1,7 @@
 [
     {
-        "id": "3540660",
-        "title": "Stormvarsel",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550403.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3544983",
-        "title": "Jotunheimen \u2013 I fjellenes favn",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/615/1539181.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3573056",
-        "title": "Episode 140",
+        "id": "3562038",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3573362",
-        "title": "Episode 7",
+        "id": "3583588",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583586",
-        "title": "Episode 10",
+        "id": "3584610",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,7 +36,43 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583587",
+        "id": "3584611",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3585573",
+        "title": "Revenge of the Tier",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3585924",
+        "title": "Episode 13",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3586664",
         "title": "Episode 11",
         "year": "2026",
         "director": "Various",
@@ -72,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583765",
-        "title": "Episode 66",
+        "id": "3588316",
+        "title": "Episode 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3584608",
-        "title": "Episode 18",
+        "id": "3588317",
+        "title": "Episode 2",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3584609",
-        "title": "Episode 19",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3586646",
-        "title": "Episode 9",
+        "id": "3588318",
+        "title": "Episode 3",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
