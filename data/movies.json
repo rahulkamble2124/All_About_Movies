@@ -1,7 +1,7 @@
 [
     {
-        "id": "3562038",
-        "title": "Episode 16",
+        "id": "3556543",
+        "title": "Avsnitt 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,7 +12,55 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3583588",
+        "id": "3570161",
+        "title": "Episode 6",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3573057",
+        "title": "Episode 141",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3584612",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3584862",
+        "title": "Double Booking",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3586665",
         "title": "Episode 12",
         "year": "2026",
         "director": "Various",
@@ -24,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3584610",
-        "title": "Episode 20",
+        "id": "3588322",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3584611",
-        "title": "Episode 21",
+        "id": "3588323",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3585573",
-        "title": "Revenge of the Tier",
+        "id": "3589349",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,56 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3585924",
-        "title": "Episode 13",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3586664",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3588316",
+        "id": "3589382",
         "title": "Episode 1",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3588317",
-        "title": "Episode 2",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3588318",
-        "title": "Episode 3",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
