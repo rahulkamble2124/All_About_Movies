@@ -1,7 +1,31 @@
 [
     {
-        "id": "3567218",
-        "title": "Episode 15",
+        "id": "3540661",
+        "title": "Risikovurdering",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550404.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3544984",
+        "title": "Seiland \u2013 Vill, vakker, voldsom",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/615/1539184.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3573058",
+        "title": "Episode 142",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3586726",
-        "title": "Episode 70",
+        "id": "3573363",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3588330",
-        "title": "Episode 15",
+        "id": "3586727",
+        "title": "Episode 71",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3588331",
-        "title": "Episode 16",
+        "id": "3588332",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,7 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3589353",
+        "id": "3588333",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -60,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590033",
-        "title": "Team Tasks",
+        "id": "3588334",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,20 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590537",
-        "title": "Episode 1",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1552022.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3590870",
-        "title": "Episode 11",
+        "id": "3588335",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590871",
-        "title": "Episode 12",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3591214",
-        "title": "Episode 26",
+        "id": "3588336",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
