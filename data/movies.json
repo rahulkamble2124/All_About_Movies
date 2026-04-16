@@ -1,66 +1,6 @@
 [
     {
-        "id": "3556544",
-        "title": "Avsnitt 8",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3570162",
-        "title": "Episode 7",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3573059",
-        "title": "Episode 143",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3583573",
-        "title": "\u0421\u0435\u0440\u0438\u044f 1",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3590876",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3590877",
+        "id": "3564759",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -72,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590878",
-        "title": "Episode 19",
+        "id": "3567653",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590879",
-        "title": "Episode 20",
+        "id": "3584964",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590880",
-        "title": "Episode 21",
+        "id": "3586728",
+        "title": "Episode 72",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +48,68 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590881",
-        "title": "Episode 22",
+        "id": "3589320",
+        "title": "Episode 31",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3591475",
+        "title": "Episode 17",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3591476",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3591797",
+        "title": "Episode 14",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3592123",
+        "title": "\u0421\u0435\u0440\u0438\u044f 3",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3593551",
+        "title": "Past Due",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
