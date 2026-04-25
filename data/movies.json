@@ -1,7 +1,7 @@
 [
     {
-        "id": "3452691",
-        "title": "Episode 24",
+        "id": "3589324",
+        "title": "Episode 35",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3585226",
-        "title": "Episode 29",
+        "id": "3592231",
+        "title": "Episode 34",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3592229",
-        "title": "Episode 32",
+        "id": "3592232",
+        "title": "Episode 35",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3592230",
-        "title": "Episode 33",
+        "id": "3592233",
+        "title": "Episode 36",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597686",
-        "title": "Episode 9",
+        "id": "3592234",
+        "title": "Episode 37",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597882",
-        "title": "Episode 13",
+        "id": "3592235",
+        "title": "Episode 38",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597883",
-        "title": "Episode 14",
+        "id": "3592236",
+        "title": "Episode 39",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598246",
-        "title": "Episode 16",
+        "id": "3592237",
+        "title": "Episode 40",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598247",
-        "title": "Episode 17",
+        "id": "3597687",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598248",
-        "title": "Episode 18",
+        "id": "3597884",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -271,7 +271,7 @@
         "genre": "Action, Adventure, Sci-Fi",
         "imdbRating": "6.4",
         "category": "Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
         "budget": "$200M",
         "revenue": "$800M"
     },
