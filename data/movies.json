@@ -1,7 +1,19 @@
 [
     {
-        "id": "3567220",
-        "title": "Episode 17",
+        "id": "3540663",
+        "title": "Et siste oppgj\u00f8r",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/622/1557013.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3573062",
+        "title": "Episode 146",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590538",
-        "title": "Episode 3",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1552021.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3594827",
-        "title": "Kjeks \u00e5 ha \u2013 del 2",
+        "id": "3573365",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,20 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597666",
-        "title": "Confession",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/622/1556985.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3597886",
-        "title": "Episode 17",
+        "id": "3589325",
+        "title": "Episode 36",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597887",
-        "title": "Episode 18",
+        "id": "3597888",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,7 +60,31 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598624",
+        "id": "3597889",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3597890",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3597891",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -84,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598625",
+        "id": "3597892",
         "title": "Episode 23",
         "year": "2026",
         "director": "Various",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3598626",
+        "id": "3597893",
         "title": "Episode 24",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3599035",
-        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
