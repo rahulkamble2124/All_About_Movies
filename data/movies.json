@@ -1,54 +1,6 @@
 [
     {
-        "id": "3540663",
-        "title": "Et siste oppgj\u00f8r",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/622/1557013.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3573062",
-        "title": "Episode 146",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3573365",
-        "title": "Episode 10",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3589325",
-        "title": "Episode 36",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3597888",
+        "id": "3562041",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -60,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597889",
-        "title": "Episode 20",
+        "id": "3596178",
+        "title": "Episode 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597890",
-        "title": "Episode 21",
+        "id": "3596179",
+        "title": "Episode 2",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597891",
-        "title": "Episode 22",
+        "id": "3596180",
+        "title": "Episode 3",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597892",
-        "title": "Episode 23",
+        "id": "3597133",
+        "title": "Enlightened Intensions",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +60,56 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3597893",
-        "title": "Episode 24",
+        "id": "3599039",
+        "title": "Episode 25",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3599118",
+        "title": "Episode 14",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3603274",
+        "title": "Episode 9",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3603275",
+        "title": "Episode 10",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3604525",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
