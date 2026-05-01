@@ -1,7 +1,7 @@
 [
     {
-        "id": "3567655",
-        "title": "The Crisis",
+        "id": "3452692",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3584966",
-        "title": "Episode 20",
+        "id": "3585227",
+        "title": "Episode 30",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3589326",
-        "title": "Episode 37",
+        "id": "3592165",
+        "title": "\u0421\u0435\u0440\u0438\u044f 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,20 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3592163",
-        "title": "\u0421\u0435\u0440\u0438\u044f 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/623/1558096.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3594828",
-        "title": "Smak av Europa \u2013 del 1",
+        "id": "3599121",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3596183",
-        "title": "Episode 6",
+        "id": "3603076",
+        "title": "Night Audit",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3596184",
-        "title": "Episode 7",
+        "id": "3603280",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,7 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599120",
+        "id": "3603281",
         "title": "Episode 16",
         "year": "2026",
         "director": "Various",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3603075",
-        "title": "Non-refundable",
+        "id": "3604522",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3603278",
-        "title": "Episode 13",
+        "id": "3604719",
+        "title": "Episode 11",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3604720",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
