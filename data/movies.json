@@ -1,42 +1,6 @@
 [
     {
-        "id": "3573064",
-        "title": "Episode 148",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3573366",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3589328",
-        "title": "Episode 39",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3599124",
+        "id": "3562042",
         "title": "Episode 20",
         "year": "2026",
         "director": "Various",
@@ -48,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599125",
-        "title": "Episode 21",
+        "id": "3595663",
+        "title": "Not All Feathers Hold a Song",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599127",
-        "title": "Episode 22",
+        "id": "3603090",
+        "title": "Frenemies",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599128",
-        "title": "Episode 23",
+        "id": "3605215",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599129",
-        "title": "Episode 24",
+        "id": "3605216",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599130",
-        "title": "Episode 25",
+        "id": "3605271",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3599131",
-        "title": "Episode 26",
+        "id": "3605272",
+        "title": "Episode 16",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3605556",
+        "title": "Episode 15",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3605557",
+        "title": "Episode 16",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3606432",
+        "title": "Episode 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
