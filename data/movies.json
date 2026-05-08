@@ -1,7 +1,7 @@
 [
     {
-        "id": "3567656",
-        "title": "Episode 28",
+        "id": "3452693",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3589329",
-        "title": "Episode 40",
+        "id": "3592167",
+        "title": "\u0421\u0435\u0440\u0438\u044f 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1560511.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3605560",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3594830",
-        "title": "Krydder i hverdagen \u2013 del 1",
+        "id": "3606440",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3605222",
-        "title": "Episode 23",
+        "id": "3606441",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3605223",
-        "title": "Episode 24",
+        "id": "3606463",
+        "title": "Service Tunnel",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,55 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3605559",
-        "title": "Episode 18",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3605793",
-        "title": "Follow-up Report",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3605940",
-        "title": "Episode 87",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3606438",
-        "title": "Episode 7",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3606439",
+        "id": "3607500",
         "title": "Episode 8",
         "year": "2026",
         "director": "Various",
@@ -116,6 +80,42 @@
         "imdbRating": "7.5",
         "category": "TV Show",
         "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3610183",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3607646",
+        "title": "Chris Hayes, Meg Stalter, Caro Claire Burke",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3599217",
+        "title": "Careers Week",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1560367.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
