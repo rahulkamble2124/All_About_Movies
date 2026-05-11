@@ -1,7 +1,7 @@
 [
     {
-        "id": "3567224",
-        "title": "Episode 19",
+        "id": "3573066",
+        "title": "Episode 150",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3590540",
-        "title": "Episode 5",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1552026.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3594831",
-        "title": "Krydder i hverdagen \u2013 del 2",
+        "id": "3573367",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3605562",
-        "title": "Episode 21",
+        "id": "3605563",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3606621",
-        "title": "Episode 1",
+        "id": "3610186",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3607502",
-        "title": "Episode 10",
+        "id": "3610228",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3607952",
-        "title": "Loss Prevention",
+        "id": "3611459",
+        "title": "Episode 90",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3608235",
-        "title": "Episode 2",
+        "id": "3607323",
+        "title": "Episode 3",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3609126",
-        "title": "Darling",
+        "id": "3613531",
+        "title": "Dragons vs Knights",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561316.jpg",
+        "image": "",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3609978",
-        "title": "Episode 1",
+        "id": "3599135",
+        "title": "Der T\u00f6pfer-Check",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3607977",
+        "title": "Episode 129",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
