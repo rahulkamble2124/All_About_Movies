@@ -1,7 +1,7 @@
 [
     {
-        "id": "3573067",
-        "title": "Episode 151",
+        "id": "3567657",
+        "title": "Episode 29",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3606584",
-        "title": "Episode 79",
+        "id": "3594832",
+        "title": "Japansk bakedisiplin \u2013 del 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3610108",
-        "title": "Tracking Log",
+        "id": "3610189",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3610188",
-        "title": "Episode 24",
+        "id": "3610190",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613067",
-        "title": "Episode 1",
+        "id": "3610191",
+        "title": "Episode 27",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,20 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613589",
-        "title": "Skal frykta styre oss?",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561332.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3614657",
-        "title": "Episode 14",
+        "id": "3610192",
+        "title": "Episode 28",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3614718",
-        "title": "Episode 12",
+        "id": "3610553",
+        "title": "House Recovery",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3614721",
-        "title": "Episode 13",
+        "id": "3611460",
+        "title": "Episode 91",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615139",
-        "title": "Episode 17",
+        "id": "3613068",
+        "title": "Episode 2",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3614658",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
