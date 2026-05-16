@@ -1,7 +1,7 @@
 [
     {
-        "id": "3610867",
-        "title": "Harbor Protocol",
+        "id": "3610122",
+        "title": "Episode 5",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613069",
-        "title": "Episode 3",
+        "id": "3612652",
+        "title": "Episode 5",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613487",
-        "title": "Episode 92",
+        "id": "3612731",
+        "title": "Guest Manifest",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,20 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613592",
-        "title": "Eit teikn fr\u00e5 greske gudar",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561349.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3614723",
-        "title": "Episode 15",
+        "id": "3613070",
+        "title": "Episode 4",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615143",
-        "title": "Episode 21",
+        "id": "3613488",
+        "title": "Episode 93",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615144",
-        "title": "Episode 22",
+        "id": "3614724",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615799",
-        "title": "Episode 9",
+        "id": "3615145",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615800",
-        "title": "Episode 10",
+        "id": "3615146",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615830",
-        "title": "Episode 9",
+        "id": "3615801",
+        "title": "Episode 11",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3615802",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
