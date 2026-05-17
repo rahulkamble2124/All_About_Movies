@@ -1,6 +1,66 @@
 [
     {
-        "id": "3610122",
+        "id": "3567226",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3594833",
+        "title": "Japansk bakedisiplin \u2013 del 2",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3608236",
+        "title": "Episode 3",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3612653",
+        "title": "Episode 6",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3612914",
+        "title": "Episode 3",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3613071",
         "title": "Episode 5",
         "year": "2026",
         "director": "Various",
@@ -12,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3612652",
-        "title": "Episode 5",
+        "id": "3613137",
+        "title": "Unclaimed Luggage",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3612731",
-        "title": "Guest Manifest",
+        "id": "3613489",
+        "title": "Episode 94",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613070",
-        "title": "Episode 4",
+        "id": "3613577",
+        "title": "TBA",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,68 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613488",
-        "title": "Episode 93",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3614724",
-        "title": "Episode 16",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615145",
-        "title": "Episode 23",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615146",
-        "title": "Episode 24",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615801",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615802",
-        "title": "Episode 12",
+        "id": "3614172",
+        "title": "Episode 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
