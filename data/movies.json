@@ -1,7 +1,7 @@
 [
     {
-        "id": "3562044",
-        "title": "Episode 22",
+        "id": "3606585",
+        "title": "Episode 80",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3612734",
-        "title": "Return of The GOAT",
+        "id": "3613072",
+        "title": "Episode 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615149",
-        "title": "Episode 27",
+        "id": "3613593",
+        "title": "Den gr\u00f8ne linja",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561350.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3615492",
+        "title": "Unscheduled Departure",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,43 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615150",
-        "title": "Episode 28",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615807",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615808",
-        "title": "Episode 18",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615809",
+        "id": "3615840",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -84,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615810",
+        "id": "3615841",
         "title": "Episode 20",
         "year": "2026",
         "director": "Various",
@@ -96,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615811",
-        "title": "Episode 21",
+        "id": "3619006",
+        "title": "Episode 29",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615812",
-        "title": "Episode 22",
+        "id": "3619007",
+        "title": "Episode 30",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619089",
+        "title": "Episode 13",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619090",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
