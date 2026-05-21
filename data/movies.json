@@ -1,7 +1,7 @@
 [
     {
-        "id": "3606585",
-        "title": "Episode 80",
+        "id": "3567658",
+        "title": "The Unattainable Happiness",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613072",
-        "title": "Episode 6",
+        "id": "3594834",
+        "title": "Bruk n\u00f8tta! - del 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,20 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613593",
-        "title": "Den gr\u00f8ne linja",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561350.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615492",
-        "title": "Unscheduled Departure",
+        "id": "3613073",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615840",
-        "title": "Episode 19",
+        "id": "3613491",
+        "title": "Episode 96",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615841",
-        "title": "Episode 20",
+        "id": "3615842",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619006",
-        "title": "Episode 29",
+        "id": "3615843",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619007",
-        "title": "Episode 30",
+        "id": "3616003",
+        "title": "Statement of Account",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619089",
-        "title": "Episode 13",
+        "id": "3619008",
+        "title": "Episode 31",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619090",
-        "title": "Episode 14",
+        "id": "3619009",
+        "title": "Episode 32",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619091",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
