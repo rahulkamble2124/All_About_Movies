@@ -1,7 +1,7 @@
 [
     {
-        "id": "3613074",
-        "title": "Episode 8",
+        "id": "3610123",
+        "title": "Episode 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613594",
-        "title": "Mamma p\u00e5 laget",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561351.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3615844",
-        "title": "Episode 23",
+        "id": "3612654",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615845",
-        "title": "Episode 24",
+        "id": "3613075",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3616580",
-        "title": "Room Inventory",
+        "id": "3617265",
+        "title": "Subject of Interest",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619010",
-        "title": "Episode 33",
+        "id": "3619012",
+        "title": "Episode 35",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619011",
-        "title": "Episode 34",
+        "id": "3619013",
+        "title": "Episode 36",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619093",
-        "title": "Episode 17",
+        "id": "3619014",
+        "title": "Episode 37",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619094",
-        "title": "Episode 18",
+        "id": "3619015",
+        "title": "Episode 38",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619119",
-        "title": "Episode 11",
+        "id": "3619016",
+        "title": "Episode 39",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619017",
+        "title": "Episode 40",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
