@@ -1,7 +1,7 @@
 [
     {
-        "id": "3610123",
-        "title": "Episode 6",
+        "id": "3567227",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,7 +12,67 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3612654",
+        "id": "3594835",
+        "title": "Bruk n\u00f8tta! - del 2",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3608237",
+        "title": "Episode 4",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3612655",
+        "title": "Episode 8",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3612916",
+        "title": "Episode 5",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3613076",
+        "title": "Episode 10",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3614173",
         "title": "Episode 7",
         "year": "2026",
         "director": "Various",
@@ -24,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613075",
-        "title": "Episode 9",
+        "id": "3617952",
+        "title": "The Basement",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3617265",
-        "title": "Subject of Interest",
+        "id": "3619076",
+        "title": "TBA",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,68 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3619012",
-        "title": "Episode 35",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619013",
-        "title": "Episode 36",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619014",
-        "title": "Episode 37",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619015",
-        "title": "Episode 38",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619016",
-        "title": "Episode 39",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619017",
-        "title": "Episode 40",
+        "id": "3619122",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
