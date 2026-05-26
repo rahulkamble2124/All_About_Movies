@@ -1,42 +1,6 @@
 [
     {
-        "id": "3573369",
-        "title": "Episode 14",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3612917",
-        "title": "Episode 6",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619123",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3620421",
+        "id": "3562045",
         "title": "Episode 23",
         "year": "2026",
         "director": "Various",
@@ -48,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3620422",
-        "title": "Episode 24",
+        "id": "3617444",
+        "title": "Three Teams. One Dream.",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3621167",
-        "title": "Episode 100",
+        "id": "3619124",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3621241",
-        "title": "Episode 11",
+        "id": "3619125",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3621242",
-        "title": "Episode 12",
+        "id": "3619126",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623192",
-        "title": "Episode 1",
+        "id": "3619127",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623193",
-        "title": "Episode 2",
+        "id": "3619128",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619129",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619130",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619131",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -220,7 +220,7 @@
         "title": "Avatar: Fire and Ash",
         "year": "2025",
         "director": "James Cameron",
-        "genre": "Animation, Action, Adventure",
+        "genre": "Action, Adventure, Fantasy",
         "imdbRating": "7.3",
         "category": "Movie",
         "image": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
