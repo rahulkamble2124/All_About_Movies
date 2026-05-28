@@ -1,7 +1,7 @@
 [
     {
-        "id": "3606586",
-        "title": "Episode 81",
+        "id": "3567659",
+        "title": "Episode 31",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3613595",
-        "title": "Stappe fjeset ned i gresk kultur",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/624/1561352.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3619912",
-        "title": "Keycard Override",
+        "id": "3620692",
+        "title": "Split Folio",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3621244",
-        "title": "Episode 14",
+        "id": "3621168",
+        "title": "Episode 101",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623199",
-        "title": "Episode 8",
+        "id": "3621245",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,31 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623200",
-        "title": "Episode 9",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3623217",
-        "title": "Episode 9",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3623218",
+        "id": "3623201",
         "title": "Episode 10",
         "year": "2026",
         "director": "Various",
@@ -96,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623607",
+        "id": "3623202",
         "title": "Episode 11",
         "year": "2026",
         "director": "Various",
@@ -108,8 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623711",
-        "title": "Episode 27",
+        "id": "3623219",
+        "title": "Episode 11",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3623220",
+        "title": "Episode 12",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3623712",
+        "title": "Episode 28",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3623861",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
