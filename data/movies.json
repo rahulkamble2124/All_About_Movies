@@ -1,7 +1,7 @@
 [
     {
-        "id": "3573370",
-        "title": "Episode 15",
+        "id": "3562046",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3612919",
-        "title": "Episode 8",
+        "id": "3622655",
+        "title": "Prove Your Worth",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623136",
-        "title": "Episode 105",
+        "id": "3623871",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,31 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3623869",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3623870",
-        "title": "Episode 18",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3624441",
+        "id": "3623872",
         "title": "Episode 20",
         "year": "2026",
         "director": "Various",
@@ -72,7 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3624442",
+        "id": "3623873",
         "title": "Episode 21",
         "year": "2026",
         "director": "Various",
@@ -84,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3624443",
+        "id": "3623874",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -96,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3624452",
-        "title": "Episode 34",
+        "id": "3623875",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3624453",
-        "title": "Episode 35",
+        "id": "3623876",
+        "title": "Episode 24",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3623877",
+        "title": "Episode 25",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3623878",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
