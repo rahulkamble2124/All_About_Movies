@@ -1,6 +1,54 @@
 [
     {
-        "id": "3626716",
+        "id": "3610125",
+        "title": "Episode 8",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3619584",
+        "title": "Episode 8",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3627690",
+        "title": "Outstanding Balance",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3629403",
+        "title": "Episode 7",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3630103",
         "title": "Episode 17",
         "year": "2026",
         "director": "Various",
@@ -12,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3626717",
+        "id": "3630104",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -24,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3626718",
-        "title": "Episode 19",
+        "id": "3632929",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3626719",
-        "title": "Episode 20",
+        "id": "3632930",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3626720",
-        "title": "Episode 21",
+        "id": "3632931",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,56 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3626721",
-        "title": "Episode 22",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3626722",
-        "title": "Episode 23",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3626723",
-        "title": "Episode 24",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3626878",
-        "title": "No Show",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3629401",
-        "title": "Episode 5",
+        "id": "3634626",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
