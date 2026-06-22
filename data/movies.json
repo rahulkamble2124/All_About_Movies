@@ -1,7 +1,7 @@
 [
     {
-        "id": "3567235",
-        "title": "Episode 25",
+        "id": "3573374",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3608241",
-        "title": "Episode 8",
+        "id": "3646479",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3615860",
-        "title": "Episode 2",
+        "id": "3646480",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3644338",
-        "title": "Property Control",
+        "id": "3646481",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,19 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646306",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3646476",
+        "id": "3646907",
         "title": "Episode 15",
         "year": "2026",
         "director": "Various",
@@ -72,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646478",
+        "id": "3646908",
         "title": "Episode 16",
         "year": "2026",
         "director": "Various",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646905",
-        "title": "Episode 13",
+        "id": "3646923",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646906",
-        "title": "Episode 14",
+        "id": "3648088",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646922",
-        "title": "Episode 9",
+        "id": "3648089",
+        "title": "Episode 11",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3648858",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
