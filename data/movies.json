@@ -1,18 +1,18 @@
 [
     {
-        "id": "3573374",
-        "title": "Episode 18",
+        "id": "3633681",
+        "title": "Mobile Suit Toyman",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/629/1574110.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646479",
+        "id": "3646910",
         "title": "Episode 17",
         "year": "2026",
         "director": "Various",
@@ -24,7 +24,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646480",
+        "id": "3646911",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -36,7 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646481",
+        "id": "3646912",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646907",
-        "title": "Episode 15",
+        "id": "3646913",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646908",
-        "title": "Episode 16",
+        "id": "3646914",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646923",
-        "title": "Episode 10",
+        "id": "3646915",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3648088",
-        "title": "Episode 10",
+        "id": "3646916",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3648089",
-        "title": "Episode 11",
+        "id": "3646917",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,7 +108,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3648858",
+        "id": "3646924",
         "title": "Episode 11",
         "year": "2026",
         "director": "Various",
