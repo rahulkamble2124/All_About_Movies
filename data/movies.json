@@ -1,19 +1,7 @@
 [
     {
-        "id": "3633681",
-        "title": "Mobile Suit Toyman",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/629/1574110.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3646910",
-        "title": "Episode 17",
+        "id": "3646831",
+        "title": "Blind Drop",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646911",
-        "title": "Episode 18",
+        "id": "3646925",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646912",
-        "title": "Episode 19",
+        "id": "3646926",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646913",
-        "title": "Episode 20",
+        "id": "3648861",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646914",
-        "title": "Episode 21",
+        "id": "3650207",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646915",
-        "title": "Episode 22",
+        "id": "3650357",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646916",
-        "title": "Episode 23",
+        "id": "3650358",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646917",
-        "title": "Episode 24",
+        "id": "3650601",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3646924",
-        "title": "Episode 11",
+        "id": "3650602",
+        "title": "Episode 8",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3631135",
+        "title": "Episode 173",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
