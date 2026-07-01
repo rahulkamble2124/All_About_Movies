@@ -1,19 +1,7 @@
 [
     {
-        "id": "3646218",
-        "title": "All's Fair in Love and W.O.R.M.S.",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/630/1576006.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3650160",
-        "title": "Episode 11",
+        "id": "3651937",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,7 +12,55 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3650936",
+        "id": "3651938",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3651939",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3651940",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3651941",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3651942",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -36,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3651935",
-        "title": "Episode 15",
+        "id": "3651943",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3651936",
-        "title": "Episode 16",
+        "id": "3651944",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3653174",
-        "title": "Episode 9",
+        "id": "3653176",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,44 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3653175",
-        "title": "Episode 10",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3653211",
-        "title": "Episode 5",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3653212",
-        "title": "Episode 6",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3654244",
-        "title": "Episode 9",
+        "id": "3653177",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
