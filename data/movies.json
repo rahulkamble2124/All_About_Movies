@@ -1,19 +1,7 @@
 [
     {
-        "id": "3647152",
-        "title": "Guess Who's Slammin' to Dinner?",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/631/1578317.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3650162",
-        "title": "Episode 13",
+        "id": "3658229",
+        "title": "Episode 5",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,7 +12,19 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3653223",
+        "id": "3658230",
+        "title": "Episode 6",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3658710",
         "title": "Episode 17",
         "year": "2026",
         "director": "Various",
@@ -36,7 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3653224",
+        "id": "3658711",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -48,7 +48,31 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3654965",
+        "id": "3658712",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3658713",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3658714",
         "title": "Episode 21",
         "year": "2026",
         "director": "Various",
@@ -60,7 +84,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3654966",
+        "id": "3658715",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -72,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3654967",
+        "id": "3658716",
         "title": "Episode 23",
         "year": "2026",
         "director": "Various",
@@ -84,32 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3654968",
+        "id": "3658717",
         "title": "Episode 24",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3654969",
-        "title": "Episode 25",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3654970",
-        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
