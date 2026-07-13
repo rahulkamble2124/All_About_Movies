@@ -1,18 +1,6 @@
 [
     {
-        "id": "3615863",
-        "title": "Chismis, Lies, and Videotape",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3646309",
+        "id": "3650163",
         "title": "Episode 14",
         "year": "2026",
         "director": "Various",
@@ -24,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3658236",
-        "title": "Episode 12",
+        "id": "3659106",
+        "title": "Episode 133",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3659105",
-        "title": "Episode 132",
+        "id": "3660987",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,7 +36,55 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3660985",
+        "id": "3660988",
+        "title": "Episode 24",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3661921",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3661922",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3661923",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3661924",
         "title": "Episode 21",
         "year": "2026",
         "director": "Various",
@@ -60,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3660986",
+        "id": "3661925",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -72,44 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3661920",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3663635",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3663636",
-        "title": "Episode 16",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3664484",
-        "title": "Episode 25",
+        "id": "3661926",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
