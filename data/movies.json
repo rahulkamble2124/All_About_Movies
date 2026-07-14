@@ -1,7 +1,7 @@
 [
     {
-        "id": "3650163",
-        "title": "Episode 14",
+        "id": "3650164",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3659106",
-        "title": "Episode 133",
+        "id": "3654232",
+        "title": "The Death of Superman",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/632/1580422.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3656335",
+        "title": "Episode 30",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,43 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3660987",
-        "title": "Episode 23",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3660988",
-        "title": "Episode 24",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3661921",
-        "title": "Episode 18",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3661922",
+        "id": "3663639",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -72,7 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3661923",
+        "id": "3663640",
         "title": "Episode 20",
         "year": "2026",
         "director": "Various",
@@ -84,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3661924",
+        "id": "3663641",
         "title": "Episode 21",
         "year": "2026",
         "director": "Various",
@@ -96,7 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3661925",
+        "id": "3663642",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -108,8 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3661926",
+        "id": "3663643",
         "title": "Episode 23",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3663644",
+        "title": "Episode 24",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3663645",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
