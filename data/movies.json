@@ -1,7 +1,7 @@
 [
     {
-        "id": "3638242",
-        "title": "Episode 16",
+        "id": "3610131",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666604",
-        "title": "Episode 17",
+        "id": "3619590",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666605",
-        "title": "Episode 18",
+        "id": "3650222",
+        "title": "Tyrkisk mini-pride",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/629/1573866.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3659483",
+        "title": "You Will Pay",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666606",
-        "title": "Episode 19",
+        "id": "3667303",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666607",
-        "title": "Episode 20",
+        "id": "3667304",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,19 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666608",
-        "title": "Episode 21",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3666609",
+        "id": "3668671",
         "title": "Episode 22",
         "year": "2026",
         "director": "Various",
@@ -84,7 +84,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666610",
+        "id": "3668672",
         "title": "Episode 23",
         "year": "2026",
         "director": "Various",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666611",
-        "title": "Episode 24",
+        "id": "3668826",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3666612",
-        "title": "Episode 25",
+        "id": "3668827",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
