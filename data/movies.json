@@ -1,7 +1,7 @@
 [
     {
-        "id": "3658241",
-        "title": "Episode 5",
+        "id": "3619592",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3658242",
-        "title": "Episode 6",
+        "id": "3650224",
+        "title": "Den synkende byen",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/631/1578663.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3658243",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3665636",
-        "title": "Episode 3",
+        "id": "3658244",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681050",
-        "title": "Episode 21",
+        "id": "3659485",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681052",
-        "title": "Episode 22",
+        "id": "3665919",
+        "title": "Episode 4",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681610",
-        "title": "Episode 9",
+        "id": "3679175",
+        "title": "Episode 4",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681611",
-        "title": "Episode 10",
+        "id": "3681053",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3682127",
-        "title": "Episode 11",
+        "id": "3681054",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3683013",
-        "title": "Episode 145",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3683303",
-        "title": "Episode 13",
+        "id": "3681055",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
