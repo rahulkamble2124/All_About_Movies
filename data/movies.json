@@ -1,7 +1,7 @@
 [
     {
-        "id": "3650169",
-        "title": "Episode 20",
+        "id": "3650170",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,7 +12,67 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681616",
+        "id": "3656145",
+        "title": "Go Back to the Past Before the End of the World",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3656338",
+        "title": "Episode 33",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3670337",
+        "title": "It's Reigning (Super)Men",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/635/1587652.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3681618",
+        "title": "Episode 17",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3681619",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3682131",
         "title": "Episode 15",
         "year": "2026",
         "director": "Various",
@@ -24,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3681617",
-        "title": "Episode 16",
+        "id": "3684224",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3682130",
-        "title": "Episode 14",
+        "id": "3684797",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,68 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3683016",
-        "title": "Episode 148",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3684796",
-        "title": "The Last Straw",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3684815",
-        "title": "Episode 7",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3684816",
-        "title": "Episode 8",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3686401",
-        "title": "Episode 14",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3686423",
-        "title": "Episode 7",
+        "id": "3684817",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
