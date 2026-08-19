@@ -1,7 +1,7 @@
 [
     {
-        "id": "3638330",
-        "title": "Tag Wars",
+        "id": "3683702",
+        "title": "Episode 71",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3656340",
-        "title": "Episode 35",
+        "id": "3695034",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,20 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3680038",
-        "title": "The Return",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592932.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3691375",
-        "title": "Episode 5",
+        "id": "3695738",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3694673",
-        "title": "Episode 17",
+        "id": "3700380",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3694674",
-        "title": "Episode 18",
+        "id": "3700381",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3695737",
-        "title": "Episode 15",
+        "id": "3700930",
+        "title": "R\u00f8ros bergstad og Circumferensen",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592551.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3702180",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700378",
-        "title": "Episode 9",
+        "id": "3702181",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700379",
-        "title": "Episode 10",
+        "id": "3702198",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,14 +108,14 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3694569",
-        "title": "\u042f\u0437\u044b\u043a \u0446\u0432\u0435\u0442\u043e\u0432",
+        "id": "3702199",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/635/1589557.jpg",
+        "image": "",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
