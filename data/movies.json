@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683702",
-        "title": "Episode 71",
+        "id": "3683703",
+        "title": "Episode 72",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3695034",
-        "title": "Episode 7",
+        "id": "3684714",
+        "title": "Episode 5",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3695738",
-        "title": "Episode 16",
+        "id": "3694201",
+        "title": "Episode 159",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700380",
-        "title": "Episode 11",
+        "id": "3695739",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700381",
-        "title": "Episode 12",
+        "id": "3695740",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,20 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700930",
-        "title": "R\u00f8ros bergstad og Circumferensen",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592551.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3702180",
-        "title": "Episode 7",
+        "id": "3695741",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702181",
-        "title": "Episode 8",
+        "id": "3695742",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702198",
-        "title": "Episode 7",
+        "id": "3695743",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702199",
-        "title": "Episode 8",
+        "id": "3695744",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3695745",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
