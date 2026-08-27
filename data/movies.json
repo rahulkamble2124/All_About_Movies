@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683707",
-        "title": "Audrey's Decision",
+        "id": "3683708",
+        "title": "Episode 77",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3695035",
-        "title": "Episode 8",
+        "id": "3684715",
+        "title": "Episode 6",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,20 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700932",
-        "title": "Urnes stavkirke",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592554.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3702209",
-        "title": "Episode 18",
+        "id": "3701129",
+        "title": "Episode 164",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702210",
-        "title": "Episode 19",
+        "id": "3702250",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702211",
-        "title": "Episode 20",
+        "id": "3702251",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702212",
-        "title": "Episode 21",
+        "id": "3706907",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,19 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702213",
-        "title": "Episode 22",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3702214",
+        "id": "3711586",
         "title": "Episode 23",
         "year": "2026",
         "director": "Various",
@@ -108,8 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702215",
+        "id": "3711587",
         "title": "Episode 24",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3713266",
+        "title": "Episode 13",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3713693",
+        "title": "Episode 1",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
