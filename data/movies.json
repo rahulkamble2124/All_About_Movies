@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683709",
-        "title": "Episode 78",
+        "id": "3619596",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3702252",
-        "title": "Episode 15",
+        "id": "3665068",
+        "title": "Flere fisk i havet",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1594633.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3683710",
+        "title": "Episode 79",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,7 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3706908",
+        "id": "3702253",
         "title": "Episode 16",
         "year": "2026",
         "director": "Various",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3707021",
-        "title": "Episode 165",
+        "id": "3704136",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3708397",
-        "title": "Episode 1",
+        "id": "3706909",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3708398",
-        "title": "Episode 2",
+        "id": "3707022",
+        "title": "Episode 166",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3708399",
-        "title": "Episode 3",
+        "id": "3707891",
+        "title": "3. F\u00f8rstemann ut",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3708400",
-        "title": "Episode 4",
+        "id": "3708479",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3708478",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3711588",
-        "title": "Episode 25",
+        "id": "3711236",
+        "title": "Episode 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
