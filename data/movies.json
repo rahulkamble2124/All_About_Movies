@@ -1,7 +1,7 @@
 [
     {
-        "id": "3656342",
-        "title": "Episode 37",
+        "id": "3659617",
+        "title": "Robot Chicken Adult Swim Special",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3691377",
-        "title": "Episode 7",
+        "id": "3683712",
+        "title": "Episode 81",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3707616",
-        "title": "Episode 21",
+        "id": "3695036",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3714229",
-        "title": "Episode 11",
+        "id": "3700933",
+        "title": "Rjukan-Notodden industriarv",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592555.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3707617",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3716878",
-        "title": "Episode 11",
+        "id": "3707892",
+        "title": "4. Jentene m\u00f8ter veggen",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,19 +72,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3716879",
-        "title": "Episode 12",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3721042",
+        "id": "3713167",
         "title": "Episode 1",
         "year": "2026",
         "director": "Various",
@@ -84,7 +84,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3721043",
+        "id": "3713168",
         "title": "Episode 2",
         "year": "2026",
         "director": "Various",
@@ -96,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3721044",
+        "id": "3713169",
         "title": "Episode 3",
         "year": "2026",
         "director": "Various",
@@ -108,8 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3721045",
-        "title": "Episode 4",
+        "id": "3716880",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
