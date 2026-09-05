@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683714",
-        "title": "Episode 83",
+        "id": "3683715",
+        "title": "Episode 84",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3707620",
-        "title": "Episode 25",
+        "id": "3707621",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3716882",
-        "title": "Episode 15",
+        "id": "3707622",
+        "title": "Episode 27",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3717321",
-        "title": "Episode 13",
+        "id": "3707623",
+        "title": "Episode 28",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3717963",
-        "title": "Episode 170",
+        "id": "3707624",
+        "title": "Episode 29",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,56 +60,56 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3721030",
+        "id": "3707625",
+        "title": "Episode 30",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3707893",
+        "title": "5. Det store valget",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3711237",
+        "title": "Episode 9",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3716883",
+        "title": "Episode 16",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3717322",
         "title": "Episode 14",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3721053",
-        "title": "Episode 11",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3721054",
-        "title": "Episode 12",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3721246",
-        "title": "Episode 6",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3721247",
-        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
