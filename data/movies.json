@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683727",
-        "title": "Episode 96",
+        "id": "3683728",
+        "title": "Episode 97",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3695039",
-        "title": "Episode 12",
+        "id": "3684719",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,20 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700936",
-        "title": "Bryggen i Bergen",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/637/1592558.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3763120",
-        "title": "Comeback efter 27 \u00e5r",
+        "id": "3763121",
+        "title": "Vinnarskallar och debutant",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,43 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3763649",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3767115",
-        "title": "Episode 13",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3767116",
-        "title": "Episode 14",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3767208",
+        "id": "3763650",
         "title": "Episode 16",
         "year": "2026",
         "director": "Various",
@@ -96,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3767209",
-        "title": "Episode 17",
+        "id": "3765329",
+        "title": "Episode 184",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +60,56 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3768633",
-        "title": "Episode 5",
+        "id": "3767117",
+        "title": "Episode 15",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3767210",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3767211",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3768634",
+        "title": "Episode 6",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3769109",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
