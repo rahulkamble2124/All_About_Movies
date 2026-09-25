@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683728",
-        "title": "Episode 97",
+        "id": "3683729",
+        "title": "Episode 98",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3684719",
-        "title": "Episode 10",
+        "id": "3763122",
+        "title": "Kr\u00e4vande motst\u00e5nd",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3763121",
-        "title": "Vinnarskallar och debutant",
+        "id": "3763651",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,43 +36,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3763650",
-        "title": "Episode 16",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3765329",
-        "title": "Episode 184",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3767117",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3767210",
+        "id": "3763652",
         "title": "Episode 18",
         "year": "2026",
         "director": "Various",
@@ -84,7 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3767211",
+        "id": "3763653",
         "title": "Episode 19",
         "year": "2026",
         "director": "Various",
@@ -96,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3768634",
-        "title": "Episode 6",
+        "id": "3763654",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3769109",
-        "title": "Episode 19",
+        "id": "3763655",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3763656",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3763657",
+        "title": "Episode 23",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3763658",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
