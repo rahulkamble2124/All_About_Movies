@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683730",
-        "title": "Episode 99",
+        "id": "3683731",
+        "title": "Episode 100",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3707899",
-        "title": "11. Vinn eller forsvinn",
+        "id": "3700473",
+        "title": "Er dette en verna bedrift?",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/642/1607397.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3711849",
+        "title": "Afsnit 8",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3726001",
-        "title": "Episode 5",
+        "id": "3765332",
+        "title": "Episode 187",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3763123",
-        "title": "Andra veckofinalen",
+        "id": "3767121",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3765331",
-        "title": "Episode 186",
+        "id": "3767122",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3766828",
-        "title": "Episode 20",
+        "id": "3769115",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3767120",
-        "title": "Episode 17",
+        "id": "3769354",
+        "title": "Episode 13",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,19 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3768636",
-        "title": "Episode 8",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3768637",
+        "id": "3770360",
         "title": "Episode 9",
         "year": "2026",
         "director": "Various",
@@ -108,7 +108,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3768638",
+        "id": "3770361",
         "title": "Episode 10",
         "year": "2026",
         "director": "Various",
