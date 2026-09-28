@@ -1,7 +1,7 @@
 [
     {
-        "id": "3683731",
-        "title": "Episode 100",
+        "id": "3707900",
+        "title": "12. Bl\u00e5se i fjeset",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3700473",
-        "title": "Er dette en verna bedrift?",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/642/1607397.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3711849",
-        "title": "Afsnit 8",
+        "id": "3765333",
+        "title": "Episode 188",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3765332",
-        "title": "Episode 187",
+        "id": "3767123",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3767121",
-        "title": "Episode 18",
+        "id": "3767124",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3767122",
-        "title": "Episode 19",
+        "id": "3769116",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3769115",
-        "title": "Episode 25",
+        "id": "3769117",
+        "title": "Episode 27",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,32 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3769354",
+        "id": "3769355",
+        "title": "Episode 14",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3770362",
+        "title": "Episode 11",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3770363",
+        "title": "Episode 12",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3770364",
         "title": "Episode 13",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3770360",
-        "title": "Episode 9",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3770361",
-        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
