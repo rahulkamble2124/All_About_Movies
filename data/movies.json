@@ -1,7 +1,19 @@
 [
     {
-        "id": "3707901",
-        "title": "13. B\u00e6r meg",
+        "id": "3700474",
+        "title": "100 runder rundt den puppen",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/643/1609964.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3737648",
+        "title": "Afsnit 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3726002",
-        "title": "Episode 6",
+        "id": "3762383",
+        "title": "Episode 115",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3762382",
-        "title": "Episode 114",
+        "id": "3770868",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3766830",
-        "title": "Episode 22",
+        "id": "3771179",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3768947",
-        "title": "Tredje veckofinalen",
+        "id": "3772270",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3770390",
-        "title": "Episode 18",
+        "id": "3772820",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3770391",
-        "title": "Episode 19",
+        "id": "3772821",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3770392",
-        "title": "Episode 20",
+        "id": "3772998",
+        "title": "Episode 14",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3770393",
-        "title": "Episode 21",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3770394",
-        "title": "Episode 22",
+        "id": "3775058",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
