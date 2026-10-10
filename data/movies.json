@@ -1,7 +1,7 @@
 [
     {
-        "id": "3768950",
-        "title": "Fr\u00e5ga R\u00e4tt, Vinn Stort, (Sista finalplatsen)",
+        "id": "3726003",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3770873",
-        "title": "Episode 20",
+        "id": "3764787",
+        "title": "Pengene fordufter",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/643/1609996.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3764788",
+        "title": "Noen har kj\u00f8pt stemmer",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/643/1609999.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3768951",
+        "title": "Fj\u00e4rde veckofinalen (Final Del 1 & 2)",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,7 +48,19 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3771184",
+        "id": "3771185",
+        "title": "Episode 15",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3772179",
         "title": "Episode 14",
         "year": "2026",
         "director": "Various",
@@ -36,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3773782",
-        "title": "Episode 200",
+        "id": "3773783",
+        "title": "Episode 201",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3775070",
-        "title": "Episode 21",
+        "id": "3775072",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3775071",
-        "title": "Episode 22",
+        "id": "3775073",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,44 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3776527",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3776528",
-        "title": "Episode 18",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3776529",
-        "title": "Episode 19",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3776531",
-        "title": "Episode 20",
+        "id": "3779661",
+        "title": "Episode 9",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
