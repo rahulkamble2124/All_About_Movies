@@ -1,7 +1,19 @@
 [
     {
-        "id": "3726003",
-        "title": "Episode 7",
+        "id": "3700475",
+        "title": "Spilte du mot Brasil?",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/645/1613449.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3773784",
+        "title": "Episode 202",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,32 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3764787",
-        "title": "Pengene fordufter",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/643/1609996.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3764788",
-        "title": "Noen har kj\u00f8pt stemmer",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/643/1609999.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3768951",
-        "title": "Fj\u00e4rde veckofinalen (Final Del 1 & 2)",
+        "id": "3775074",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3771185",
-        "title": "Episode 15",
+        "id": "3775075",
+        "title": "Episode 26",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3772179",
-        "title": "Episode 14",
+        "id": "3775076",
+        "title": "Episode 27",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3773783",
-        "title": "Episode 201",
+        "id": "3775077",
+        "title": "Episode 28",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3775072",
-        "title": "Episode 23",
+        "id": "3775078",
+        "title": "Episode 29",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3775073",
-        "title": "Episode 24",
+        "id": "3775079",
+        "title": "Episode 30",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +96,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3779661",
-        "title": "Episode 9",
+        "id": "3775080",
+        "title": "Episode 31",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3775081",
+        "title": "Episode 32",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
