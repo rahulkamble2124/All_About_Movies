@@ -1,66 +1,6 @@
 [
     {
-        "id": "3695042",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3773785",
-        "title": "Episode 203",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3779669",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3782154",
-        "title": "Episode 17",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3783121",
-        "title": "Episode 6",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3784159",
+        "id": "3684722",
         "title": "Episode 13",
         "year": "2026",
         "director": "Various",
@@ -72,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784212",
-        "title": "Episode 11",
+        "id": "3773786",
+        "title": "Episode 204",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784213",
-        "title": "Episode 12",
+        "id": "3782155",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784541",
-        "title": "Episode 1",
+        "id": "3782156",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +48,68 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784542",
-        "title": "Episode 2",
+        "id": "3782157",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3782158",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3782159",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3782160",
+        "title": "Episode 23",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3782161",
+        "title": "Episode 24",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3782162",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
