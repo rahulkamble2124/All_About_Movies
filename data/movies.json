@@ -1,7 +1,7 @@
 [
     {
-        "id": "3783361",
-        "title": "St\u00e5le Solbakken",
+        "id": "3656350",
+        "title": "Episode 45",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784563",
-        "title": "Episode 23",
+        "id": "3784564",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784598",
-        "title": "Episode 17",
+        "id": "3784599",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3790289",
-        "title": "Midterm 2026: Countdown to Election Night",
+        "id": "3793085",
+        "title": "Episode 15",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,7 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3793084",
+        "id": "3793744",
         "title": "Episode 14",
         "year": "2026",
         "director": "Various",
@@ -60,7 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3793743",
+        "id": "3793998",
         "title": "Episode 13",
         "year": "2026",
         "director": "Various",
@@ -72,7 +72,19 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3793996",
+        "id": "3793999",
+        "title": "Episode 14",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3794813",
         "title": "Episode 11",
         "year": "2026",
         "director": "Various",
@@ -84,7 +96,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3793997",
+        "id": "3794814",
         "title": "Episode 12",
         "year": "2026",
         "director": "Various",
@@ -96,20 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794811",
-        "title": "Episode 9",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3794812",
-        "title": "Episode 10",
+        "id": "3795706",
+        "title": "Episode 7",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
