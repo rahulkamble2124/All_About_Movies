@@ -1,7 +1,7 @@
 [
     {
-        "id": "3773797",
-        "title": "Episode 215",
+        "id": "3726006",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3777404",
-        "title": "Emil",
+        "id": "3772182",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3783993",
-        "title": "Episode 11",
+        "id": "3773798",
+        "title": "Episode 216",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784569",
-        "title": "Episode 29",
+        "id": "3783994",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784570",
-        "title": "Episode 30",
+        "id": "3784571",
+        "title": "Episode 31",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,7 +60,31 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784602",
+        "id": "3784572",
+        "title": "Episode 32",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3784603",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3794006",
         "title": "Episode 21",
         "year": "2026",
         "director": "Various",
@@ -72,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794004",
-        "title": "Episode 19",
+        "id": "3794007",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,32 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794005",
-        "title": "Episode 20",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3794817",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3795530",
-        "title": "Midterm 2026: Countdown to Election Night",
+        "id": "3794818",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
