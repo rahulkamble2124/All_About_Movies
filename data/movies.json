@@ -1,7 +1,7 @@
 [
     {
-        "id": "3773799",
-        "title": "Episode 217",
+        "id": "3777405",
+        "title": "Klipp meg bort",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784573",
-        "title": "Episode 33",
+        "id": "3784574",
+        "title": "Episode 34",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,31 +24,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3784604",
-        "title": "Episode 23",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3794008",
-        "title": "Episode 23",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3794009",
+        "id": "3784605",
         "title": "Episode 24",
         "year": "2026",
         "director": "Various",
@@ -60,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794010",
-        "title": "Episode 25",
+        "id": "3790195",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794011",
-        "title": "Episode 26",
+        "id": "3790196",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794012",
-        "title": "Episode 27",
+        "id": "3795533",
+        "title": "Midterm 2026: Countdown to Election Night",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794013",
-        "title": "Episode 28",
+        "id": "3796171",
+        "title": "Episode 11",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +84,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3794014",
-        "title": "Episode 29",
+        "id": "3796172",
+        "title": "Episode 12",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3796493",
+        "title": "Episode 15",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3796494",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
