@@ -1,7 +1,7 @@
 [
     {
-        "id": "3785727",
-        "title": "Hvordan kunne du?",
+        "id": "3656352",
+        "title": "Episode 47",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,20 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3797419",
-        "title": "Episode 211",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/650/1625559.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3802484",
-        "title": "Episode 222",
+        "id": "3797520",
+        "title": "Gary Clark Jr.; Black Pumas",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802850",
-        "title": "Episode 28",
+        "id": "3802854",
+        "title": "Episode 32",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802851",
-        "title": "Episode 29",
+        "id": "3802855",
+        "title": "Episode 33",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,43 +48,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802852",
-        "title": "Episode 30",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3802853",
-        "title": "Episode 31",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3803964",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3804005",
+        "id": "3803965",
         "title": "Episode 16",
         "year": "2026",
         "director": "Various",
@@ -108,7 +60,55 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804006",
+        "id": "3804008",
+        "title": "Episode 19",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804009",
+        "title": "Episode 20",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804010",
+        "title": "Episode 21",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804909",
+        "title": "Episode 16",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804910",
         "title": "Episode 17",
         "year": "2026",
         "director": "Various",
