@@ -1,7 +1,7 @@
 [
     {
-        "id": "3656352",
-        "title": "Episode 47",
+        "id": "3777408",
+        "title": "Full kunstnerisk frihet",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3797520",
-        "title": "Gary Clark Jr.; Black Pumas",
+        "id": "3777409",
+        "title": "Hva er det med Ragnhild",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,8 +24,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802854",
-        "title": "Episode 32",
+        "id": "3777410",
+        "title": "Det beste for gruppa",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +36,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802855",
-        "title": "Episode 33",
+        "id": "3802187",
+        "title": "Episode 223",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +48,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3803965",
-        "title": "Episode 16",
+        "id": "3802856",
+        "title": "Episode 34",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804008",
-        "title": "Episode 19",
+        "id": "3802857",
+        "title": "Episode 35",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,44 +72,44 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804009",
-        "title": "Episode 20",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3804010",
-        "title": "Episode 21",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3804909",
-        "title": "Episode 16",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3804910",
+        "id": "3803966",
         "title": "Episode 17",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804011",
+        "title": "Episode 22",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804012",
+        "title": "Episode 23",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3804013",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
