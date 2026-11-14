@@ -1,7 +1,7 @@
 [
     {
-        "id": "3783997",
-        "title": "Episode 15",
+        "id": "3772184",
+        "title": "Episode 19",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3785728",
-        "title": "Skogens mann",
+        "id": "3783998",
+        "title": "Episode 16",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,32 +24,20 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3788777",
-        "title": "Kathryn Hahn",
+        "id": "3788778",
+        "title": "Ron Howard",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/650/1627353.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/651/1627931.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3791733",
-        "title": "Oklahoma City Thunder at Portland Trail Blazers",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3797421",
-        "title": "Episode 213",
+        "id": "3797422",
+        "title": "Episode 214",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,7 +48,19 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802189",
+        "id": "3802190",
+        "title": "Episode 226",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802487",
         "title": "Episode 225",
         "year": "2026",
         "director": "Various",
@@ -72,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802486",
-        "title": "Episode 224",
+        "id": "3802862",
+        "title": "Episode 40",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802860",
-        "title": "Episode 38",
+        "id": "3802863",
+        "title": "Episode 41",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802861",
-        "title": "Episode 39",
+        "id": "3804917",
+        "title": "Episode 24",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802876",
-        "title": "Hogan on Late Night / The Black Scorpion",
+        "id": "3804918",
+        "title": "Episode 25",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
