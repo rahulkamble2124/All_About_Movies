@@ -1,6 +1,54 @@
 [
     {
-        "id": "3802192",
+        "id": "3684727",
+        "title": "Episode 18",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3788781",
+        "title": "Adam \"Ad-Rock\" Horovitz & Mike \"Mike D\" Diamond",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630098.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3797426",
+        "title": "Episode 217",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630049.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802194",
+        "title": "Episode 229",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802490",
         "title": "Episode 228",
         "year": "2026",
         "director": "Various",
@@ -12,20 +60,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804575",
-        "title": "Alligator Alcatraz",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/651/1629384.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3804925",
-        "title": "Episode 32",
+        "id": "3804927",
+        "title": "Episode 34",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -36,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804926",
-        "title": "Episode 33",
+        "id": "3804928",
+        "title": "Episode 35",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3805313",
-        "title": "Episode 20",
+        "id": "3805314",
+        "title": "Episode 21",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3809439",
-        "title": "All i want for Christmas is jul",
+        "id": "3805315",
+        "title": "Episode 22",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,44 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3810540",
-        "title": "Episode 15",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3815290",
-        "title": "Episode 6",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3815291",
-        "title": "Episode 7",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3815405",
-        "title": "Episode 13",
+        "id": "3805316",
+        "title": "Episode 23",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
