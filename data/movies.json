@@ -1,7 +1,7 @@
 [
     {
-        "id": "3684727",
-        "title": "Episode 18",
+        "id": "3783999",
+        "title": "Episode 17",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,31 +12,67 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3788781",
-        "title": "Adam \"Ad-Rock\" Horovitz & Mike \"Mike D\" Diamond",
+        "id": "3785729",
+        "title": "Bff?",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630098.jpg",
+        "image": "",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3797426",
-        "title": "Episode 217",
+        "id": "3788782",
+        "title": "Daniel Susskind",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630049.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630672.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802194",
+        "id": "3791736",
+        "title": "Charlotte Hornets at Los Angeles Lakers",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3797427",
+        "title": "Episode 218",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630650.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802195",
+        "title": "Episode 230",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802491",
         "title": "Episode 229",
         "year": "2026",
         "director": "Various",
@@ -48,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802490",
-        "title": "Episode 228",
+        "id": "3804929",
+        "title": "Episode 36",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -60,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804927",
-        "title": "Episode 34",
+        "id": "3804930",
+        "title": "Episode 37",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -72,44 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804928",
-        "title": "Episode 35",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3805314",
-        "title": "Episode 21",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3805315",
-        "title": "Episode 22",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3805316",
-        "title": "Episode 23",
+        "id": "3815294",
+        "title": "Episode 10",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
