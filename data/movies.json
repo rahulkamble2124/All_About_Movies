@@ -1,7 +1,7 @@
 [
     {
-        "id": "3783999",
-        "title": "Episode 17",
+        "id": "3772185",
+        "title": "Episode 20",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -12,8 +12,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3785729",
-        "title": "Bff?",
+        "id": "3784000",
+        "title": "Episode 18",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -24,20 +24,32 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3788782",
-        "title": "Daniel Susskind",
+        "id": "3788783",
+        "title": "Chloe Radcliffe",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
         "imdbRating": "7.5",
         "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630672.jpg",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1631058.jpg",
         "budget": "TV Budget",
         "revenue": "Network Revenue"
     },
     {
-        "id": "3791736",
-        "title": "Charlotte Hornets at Los Angeles Lakers",
+        "id": "3797428",
+        "title": "Episode 219",
+        "year": "2026",
+        "director": "Various",
+        "genre": "Reality/TV",
+        "imdbRating": "7.5",
+        "category": "TV Show",
+        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1631010.jpg",
+        "budget": "TV Budget",
+        "revenue": "Network Revenue"
+    },
+    {
+        "id": "3802196",
+        "title": "Episode 231",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -48,19 +60,7 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3797427",
-        "title": "Episode 218",
-        "year": "2026",
-        "director": "Various",
-        "genre": "Reality/TV",
-        "imdbRating": "7.5",
-        "category": "TV Show",
-        "image": "https://static.tvmaze.com/uploads/images/medium_landscape/652/1630650.jpg",
-        "budget": "TV Budget",
-        "revenue": "Network Revenue"
-    },
-    {
-        "id": "3802195",
+        "id": "3802492",
         "title": "Episode 230",
         "year": "2026",
         "director": "Various",
@@ -72,8 +72,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3802491",
-        "title": "Episode 229",
+        "id": "3804931",
+        "title": "Episode 38",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -84,8 +84,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804929",
-        "title": "Episode 36",
+        "id": "3804932",
+        "title": "Episode 39",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -96,8 +96,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3804930",
-        "title": "Episode 37",
+        "id": "3804933",
+        "title": "Episode 40",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
@@ -108,8 +108,8 @@
         "revenue": "Network Revenue"
     },
     {
-        "id": "3815294",
-        "title": "Episode 10",
+        "id": "3815296",
+        "title": "Episode 12",
         "year": "2026",
         "director": "Various",
         "genre": "Reality/TV",
